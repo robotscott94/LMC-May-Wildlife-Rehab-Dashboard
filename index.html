@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Bellybutton Biodiversity</title>
+  <title>May Wildlife Rehabilitation Center Dashboard</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 </head>
 
@@ -14,33 +14,60 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12 jumbotron text-center">
-        <h1>Belly Button Biodiversity Dashboard</h1>
+        <h1>May Wildlife Rehabilitation Center Dashboard</h1>
         <p>Use the interactive charts below to explore the dataset</p>
       </div>
     </div>
     <div class="row">
-      <div class="col-md-2">
-        <div class="well">
-          <h5>Test Subject ID No.:</h5>
-          <select id="selDataset" onchange="optionChanged(this.value)"></select>
-        </div>
-        <div class="panel panel-primary">
-          <div class="panel-heading">
-            <h3 class="panel-title">Demographic Info</h3>
-          </div>
-          <div id="sample-metadata" class="panel-body"></div>
-        </div>
+      <div class="col-md-4">
+        <h2>Total Rehabilitated Animals</h2>
       </div>
-      <div class="col-md-5">
-        <div id="bar"></div>
+      <div class="col-md-4">
+        <h2>Animal Release Rate</h2>
       </div>
-      <div class="col-md-5">
-        <div id="gauge"></div>
+      <div class="col-md-4">
+        <h2>donation button here</h2>
       </div>
     </div>
     <div class="row">
-      <div class="col-md-12">
-        <div id="bubble"></div>
+      <div class="col-md-8">
+        <h2>Current Patients</h2>
+        <div id="current-patients"></div>
+      </div>
+      <div class="col-md-4">
+        <h2>Gollum Pic</h2>
+        <div id="gollum">
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-4">
+        <h2>Bubble Map</h2>
+        <div id="map"></div>
+      </div>
+      <div class="col-md-5">
+        <h2>Line Chart</h2>
+        <div id="line"></div>
+      </div>
+      <div class="col-md-2">
+        <div class="panel panel-primary">
+          <div class="panel-heading">
+            <h3 class="panel-title">Chart Selectors</h3>
+          </div>
+          <div id="sample-metadata" class="panel-body">
+            <select id="selDataset" onchange="optionChanged(this.value)"></select>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-8">
+        <h2>Bar Chart</h2>
+        <div id="bar"></div>
+      </div>
+      <div class="col-md-4">
+        <h2>Pie Chart</h2>
+        <div id="pie"></div>
       </div>
     </div>
   </div>
@@ -48,9 +75,9 @@
   <!-- D3 JS -->
   <script src="https://d3js.org/d3.v5.min.js"></script>
   <!-- Highcharts Dependency -->
-  <script src=“http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js”></script> 
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>  
   <!-- Highcharts JS -->
-  <script src=“http://code.highcharts.com/highcharts.js”></script>
+  <script type="text/javascript" src="https://code.highcharts.com/highcharts.js"></script>
   <!-- Plotly JS -->
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   <!-- Leaflet JS -->
