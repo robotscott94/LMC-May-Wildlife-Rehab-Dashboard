@@ -7,46 +7,53 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>May Wildlife Rehabilitation Center Dashboard</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
 <body>
 
   <div class="container">
     <div class="row">
-      <div class="col-md-12 jumbotron text-center">
-        <h1>May Wildlife Rehabilitation Center Dashboard</h1>
-        <p>Use the interactive charts below to explore the dataset</p>
+      <div id="title" class="col-md-12 jumbotron text-center">
+        <h1 id="title-text"><strong>May Wildlife Rehabilitation Center Dashboard</strong></h1>
       </div>
     </div>
     <div class="row">
-      <div class="col-md-4">
-        <h2>Total Rehabilitated Animals</h2>
+      <div class="col-md-8 border">
+        <div class="col-md-7">
+          <h3><strong>Total Rehabilitated Animals: </strong></h3>
+          <p id="rehab-total"></p>
+        </div>
+        <div class="col-md-5">
+          <h3><strong>Animal Release Rate: </strong></h3>
+          <p id="release-rate"></p>
+        </div>
       </div>
-      <div class="col-md-4">
-        <h2>Animal Release Rate</h2>
-      </div>
-      <div class="col-md-4">
-        <h2>donation button here</h2>
+      <div class="col-md-3 text-center">
+        <a id="donation" href="https://www.givecampus.com/weg1v2">
+          MAKE A GIFT
+        </a>
       </div>
     </div>
     <div class="row">
-      <div class="col-md-8">
-        <h2>Current Patients</h2>
-        <div id="current-patients"></div>
+      <div class="col-md-8 border">
+        <h3><strong>Current Patients</strong></h3>
+        <table id="current-patients">
+        </table>
       </div>
-      <div class="col-md-4">
-        <h2>Gollum Pic</h2>
+      <div class="col-md-3">
         <div id="gollum">
+          <img src="resources/Gollum.jpg" alt="Gollum">
         </div>
       </div>
     </div>
     <div class="row">
       <div class="col-md-4">
-        <h2>Bubble Map</h2>
+        <h3>Bubble Map</h3>
         <div id="map"></div>
       </div>
-      <div class="col-md-5">
-        <h2>Line Chart</h2>
+      <div class="col-md-6">
+        <h3>Line Chart</h3>
         <div id="line"></div>
       </div>
       <div class="col-md-2">
@@ -54,19 +61,30 @@
           <div class="panel-heading">
             <h3 class="panel-title">Chart Selectors</h3>
           </div>
-          <div id="sample-metadata" class="panel-body">
-            <select id="selDataset" onchange="optionChanged(this.value)"></select>
+          <div class="panel-body">
+            <div class="row">
+              <div class="col-md-7">
+                <p>Year</p>
+              </div>
+              <select id="selYear" onchange="optionChanged(this.value)"></select>
+            </div>
+            <div class="row">
+              <div class="col-md-7">
+                <p>Taxonomy</p>
+              </div>
+              <select id="selTaxonomy" onchange="optionChanged(this.value)"></select>
+            </div>
           </div>
         </div>
       </div>
     </div>
     <div class="row">
       <div class="col-md-8">
-        <h2>Bar Chart</h2>
+        <h3>Bar Chart</h3>
         <div id="bar"></div>
       </div>
       <div class="col-md-4">
-        <h2>Pie Chart</h2>
+        <h3>Pie Chart</h3>
         <div id="pie"></div>
       </div>
     </div>
@@ -74,6 +92,8 @@
 
   <!-- D3 JS -->
   <script src="https://d3js.org/d3.v5.min.js"></script>
+  <!-- Papa Parse JS -->>
+  <script src=“https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js”></script>
   <!-- Highcharts Dependency -->
   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>  
   <!-- Highcharts JS -->
@@ -89,11 +109,11 @@
     integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
     crossorigin="" />
 
-  <script src="./static/js/DataLogic.js"></script>
-  <script src="./static/js/BarLogic.js"></script>
-  <script src="./static/js/LineChartLogic.js"></script>
-  <script src="./static/js/MapLogic.js"></script>
-  <script src="./static/js/PieLogic.js"></script>
+  <script src="static/DataLogic.js"></script>
+  <script src="static/BarLogic.js"></script>
+  <script src="static/LineChartLogic.js"></script>
+  <script src="static/MapLogic.js"></script>
+  <script src="static/PieLogic.js"></script>
   
 </body>
 
