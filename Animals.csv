@@ -1,0 +1,115 @@
+species,common_name,species_count,animal_class
+MUDU,Muscovy duck,2,Bird
+BDOW,Barred owl,19,Bird
+EASO,Eastern screech owl,41,Bird
+HAWO,Hairy woodpecker,4,Bird
+RTHA,Red-tailed hawk,27,Bird
+AMGO,American goldfinch,14,Bird
+SYFL,Eastern cottontail,101,Bird
+GHOW,Great horned owl,12,Bird
+YBSA,Yellow-bellied sapsucker,4,Bird
+GLVO,Southern flying squirrel,19,Bird
+NOCA,Northern cardinal,30,Bird
+BAEA,Bald Eagle,3,Bird
+DIVI,Virginia opossum,166,Bird
+SCCA,Eastern gray squirrel,50,Bird
+TUTI,Tufted titmouse,10,Bird
+TUVU,Turkey vulture,3,Bird
+MODO,Mourning dove,56,Bird
+COHA,Cooper's Hawk,10,Bird
+CAWR,Carolina wren,29,Bird
+RSHA,Red-shouldered hawk,12,Bird
+COGR,Common grackle,5,Bird
+RODO,Rock dove,13,Bird
+PELE,White-footed mouse,28,Bird
+HOFI,House finch,29,Bird
+PIWO,Pileated woodpecker,3,Bird
+GBHE,Great blue heron,8,Bird
+BCCH,Black-capped chickadee,1,Bird
+EAPH,Eastern phoebe,13,Bird
+TECA,Eastern box turtle,21,Bird
+AMRO,American robin,35,Bird
+NOMO,Northern mockingbird,9,Bird
+NOFL,Northern flicker,4,Bird
+TRES,Tree swallow,2,Bird
+???,unknown,3,Bird
+OSPR,Osprey,3,Bird
+NRWS,Northern rough-winged swallow,5,Bird
+BWHA,Broad-winged hawk,6,Bird
+YRWA,Yellow-Rumped Warbler,1,Bird
+HETH,Hermit thrush,1,Bird
+AMCR,American crow,19,Bird
+EUST,European starling,23,Bird
+BRTH,Brown thrasher,15,Bird
+TAST,Eastern chipmunk,10,Bird
+CAGO,Canada goose,5,Bird
+TAHU,Red squirrel,7,Bird
+RTHU,Ruby-throated hummingbird,22,Bird
+MAMO,Groundhog,10,Bird
+NESI,Northern water snake,2,Bird
+EATO,Eastern towhee,9,Bird
+WBNU,White-breasted nuthatch,3,Bird
+EABL,Eastern bluebird,26,Bird
+CHSE,Snapping turtle,3,Bird
+CEWA,Cedar waxwing,6,Bird
+RBGR,Rose-breasted grosbeak,2,Bird
+BARS,Barn swallow,12,Bird
+HOSP,House sparrow,18,Bird
+GRCA,Gray catbird,4,Bird
+BLJA,Blue jay,17,Bird
+WITU,Wild turkey,6,Bird
+RBWO,Red-bellied woodpecker,4,Bird
+AMKE,American kestrel,2,Bird
+BLVU,Black vulture,2,Bird
+ODVI,White-tailed deer,48,Bird
+PEFA,Peregrine falcon,1,Bird
+SOSP,Song sparrow,14,Bird
+HOLA,Horned Lark,1,Bird
+MALL,Mallard,5,Bird
+BHCO,Brown-headed cowbird,3,Bird
+DEJU,Dark Eyed Junco,9,Bird
+NOPA,Northern Parula,2,Bird
+BEKI,Belted kingfisher,1,Bird
+MUMU,House mouse,8,Bird
+ELOB,Rat snake,5,Bird
+SCJU,Slate Colored Junco,3,Bird
+HOWR,House wren,14,Bird
+WOTH,Wood thrush,1,Bird
+LISY,Wood frog,1,Bird
+WTSP,White-throated sparrow,1,Bird
+REVI,Red-eyed Vireo,1,Bird
+THSI,Common Garter Snake,1,Bird
+FICR,Fish crow,1,Bird
+PUMA,Purple martin,1,Bird
+CHWW,Chuck-wills-widow,1,Bird
+BGGN,Blue-Gray Gnatcatcher,1,Bird
+CHSW,Chimney swift,26,Bird
+BAWW,Black and white warbler,1,Bird
+COYE,Common yellowthroat,1,Bird
+INBU,Indigo bunting,1,Bird
+BOQU,Bobwhite Quail,1,Bird
+TRSCS,Yellow Bellied Slider,1,Bird
+HOWA,Hooded Warbler,1,Reptile
+DCCO,Double-crested cormorant,1,Reptile
+CHSP,Chipping sparrow,1,Reptile
+SWTH,Swainson's thrush,7,Reptile
+GCKI,Golden-crowned kinglet,1,Reptile
+PIWA,Pine Warbler,2,Reptile
+CLSW,Cliff Swallow,1,Reptile
+OVEN,Ovenbird,4,Reptile
+EWPW,Eastern Whip-poor-will,2,Reptile
+PRIO,Raccoon,2,Reptile
+DIPU,Ringneck snake,3,Mammal
+YBCH,Yellow Breasted Chat,1,Mammal
+CONI,Common nighthawk,1,Mammal
+BWWA,Blue-winged Warbler,1,Mammal
+NSWO,Northern saw-whet owl,1,Mammal
+CMWA,Cape May Warbler,1,Mammal
+LATR,Eastern milk Snake,2,Mammal
+BTBW,Black-Throated Blue Warbler,1,Mammal
+CAAL,Sanderling,1,Mammal
+RBNU,Red-breasted nuthatch,1,Mammal
+BLCA,Southern short-tailed shrew,1,Mammal
+LAGE,Eastern Kingsnake,1,Mammal
+DOWO,Downy woodpecker,1,Mammal
+LESC,Lesser scaup,1,Mammal

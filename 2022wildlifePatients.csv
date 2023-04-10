@@ -1,0 +1,1223 @@
+patient_id,admission_date,species,common_name,found_city,found_county,status,final_date
+2022-0001,1/1/22,MUDU,Muscovy duck,,NA,D24,1/1/22
+2022-0002,1/2/22,BDOW,Barred owl,Buladeen,NA,E,1/4/22
+2022-0003,1/5/22,EASO,Eastern screech owl,,NA,E,1/20/22
+2022-0004,1/8/22,EASO,Eastern screech owl,Wilkesboro,Wilkes,R,2/9/22
+2022-0005,1/9/22,HAWO,Hairy woodpecker,Blowing Rock,Watauga,D24,1/10/22
+2022-0006,1/12/22,RTHA,Red-tailed hawk,Kingsport,NA,T,1/14/22
+2022-0007,1/12/22,AMGO,American goldfinch,Kannapolis,Cabarrus,E,1/21/22
+2022-0008,1/14/22,EASO,Eastern screech owl,Linville,Avery,R,2/9/22
+2022-0009,1/14/22,SYFL,Eastern cottontail,Boone,Watauga,E,1/20/22
+2022-0010,1/21/22,GHOW,Great horned owl,Asheville,Buncombe,E,4/22/22
+2022-0011,1/26/22,BDOW,Barred owl,,NA,E,2/7/22
+2022-0012,1/29/22,BDOW,Barred owl,Zionville,Watauga,R,3/3/22
+2022-0013,1/29/22,YBSA,Yellow-bellied sapsucker,Vilas,Watauga,D,2/1/22
+2022-0014,1/31/22,BDOW,Barred owl,Valle Crucis,Watauga,R,2/20/22
+2022-0015,1/31/22,GLVO,Southern flying squirrel,Boone,Watauga,D,1/31/22
+2022-0016,1/31/22,SYFL,Eastern cottontail,,NA,D,2/2/22
+2022-0017,2/2/22,NOCA,Northern cardinal,Hendersonville,Henderson,R,2/28/22
+2022-0018,2/2/22,NOCA,Northern cardinal,Morganton,Burke,R,4/1/22
+2022-0019,2/2/22,EASO,Eastern screech owl,Rutherfordton,Rutherford,R,3/18/22
+2022-0020,2/2/22,EASO,Eastern screech owl,Woodfin,Buncombe,R,3/18/22
+2022-0021,2/3/22,EASO,Eastern screech owl,Boone,Watauga,R,2/20/22
+2022-0022,2/4/22,EASO,Eastern screech owl,Fletcher,Henderson,R,3/7/22
+2022-0023,2/7/22,SYFL,Eastern cottontail,Bakersville,Mitchell,E,2/11/22
+2022-0024,2/8/22,BAEA,Bald Eagle,Franklin,Macon,E,2/11/22
+2022-0025,2/9/22,BDOW,Barred owl,Lincolnton,Lincoln,E24,2/9/22
+2022-0026,2/9/22,DIVI,Virginia opossum,Boone,Watauga,R,3/1/22
+2022-0027,2/9/22,SCCA,Eastern gray squirrel,Beech Mountain,Avery,T,2/9/22
+2022-0028,2/9/22,EASO,Eastern screech owl,,NA,R,3/24/22
+2022-0029,2/10/22,RTHA,Red-tailed hawk,Wilkesboro,Wilkes,E24,2/11/22
+2022-0030,2/10/22,TUTI,Tufted titmouse,Hendersonville,Henderson,R,4/1/22
+2022-0031,2/10/22,NOCA,Northern cardinal,Mills River,Henderson,R,2/28/22
+2022-0032,2/11/22,GHOW,Great horned owl,,NA,E,2/14/22
+2022-0033,2/11/22,RTHA,Red-tailed hawk,Sylvia,Jackson,E24,2/11/22
+2022-0034,2/11/22,GHOW,Great horned owl,Hendersonville,Henderson,D,2/12/22
+2022-0035,2/14/22,DIVI,Virginia opossum,Asheville,Buncombe,E,6/17/22
+2022-0036,2/14/22,EASO,Eastern screech owl,Clyde,Haywood,E,2/16/22
+2022-0037,2/14/22,EASO,Eastern screech owl,weaverville,Buncombe,R,3/7/22
+2022-0038,2/14/22,BDOW,Barred owl,sapphire,NA,E,2/16/22
+2022-0039,2/15/22,SCCA,Eastern gray squirrel,Hudson,Caldwell,D24,2/16/22
+2022-0040,2/16/22,EASO,Eastern screech owl,Lenoir,Caldwell,E,2/25/22
+2022-0041,2/18/22,GHOW,Great horned owl,Asheville,Buncombe,R,4/4/22
+2022-0042,2/19/22,NOCA,Northern cardinal,Boone,Watauga,R,2/28/22
+2022-0043,2/21/22,RTHA,Red-tailed hawk,Bakersville,Mitchell,EOA,2/21/22
+2022-0044,2/21/22,BDOW,Barred owl,Connelly Springs,Burke,E,2/23/22
+2022-0045,2/21/22,SYFL,Eastern cottontail,,NA,E,3/2/22
+2022-0046,2/21/22,RTHA,Red-tailed hawk,Lawndale,Cleveland,EOA,2/21/22
+2022-0047,2/24/22,EASO,Eastern screech owl,Asheville,Buncombe,E,3/28/22
+2022-0048,2/26/22,RTHA,Red-tailed hawk,Mills River,Henderson,D,2/27/22
+2022-0049,2/26/22,TUVU,Turkey vulture,AVL,Buncombe,E,2/28/22
+2022-0050,2/27/22,SCCA,Eastern gray squirrel,Boone,Watauga,R,5/6/22
+2022-0051,2/28/22,NOCA,Northern cardinal,Asheville,Buncombe,R,4/1/22
+2022-0052,2/28/22,MODO,Mourning dove,Mills River,Henderson,E,4/29/22
+2022-0053,3/1/22,SCCA,Eastern gray squirrel,Roan Mtn,NA,R,5/30/22
+2022-0054,3/1/22,SCCA,Eastern gray squirrel,Roan Mtn,NA,R,5/30/22
+2022-0055,3/17/22,AMGO,American goldfinch,Bakersville,Mitchell,D,3/20/22
+2022-0056,3/3/22,SCCA,Eastern gray squirrel,Bakersville,Mitchell,D,3/6/22
+2022-0057,3/3/22,SCCA,Eastern gray squirrel,Wilkesboro,Wilkes,D24,3/3/22
+2022-0058,3/4/22,COHA,Cooper's Hawk,Morganton,Burke,E,4/18/22
+2022-0059,3/4/22,BDOW,Barred owl,Bakersville,Mitchell,D24,3/5/22
+2022-0060,3/4/22,CAWR,Carolina wren,Fletcher,Henderson,R,4/15/22
+2022-0061,3/4/22,EASO,Eastern screech owl,,NA,D24,3/5/22
+2022-0062,3/6/22,CAWR,Carolina wren,West Jefferson,NA,R,4/15/22
+2022-0063,3/6/22,AMGO,American goldfinch,Lansing,Ashe,R,3/18/22
+2022-0064,3/7/22,RSHA,Red-shouldered hawk,Hendersonville,Henderson,E,3/14/22
+2022-0065,3/7/22,EASO,Eastern screech owl,Marion,McDowell,R,4/22/22
+2022-0066,3/7/22,RTHA,Red-tailed hawk,Asheville,Buncombe,D,3/11/22
+2022-0067,3/8/22,EASO,Eastern screech owl,Wilkesboro,Wilkes,E,3/10/22
+2022-0068,3/8/22,SCCA,Eastern gray squirrel,Beech Mountain,NA,E,3/10/22
+2022-0069,3/11/22,COHA,Cooper's Hawk,Waynesville,Haywood,R,4/8/22
+2022-0070,3/11/22,MODO,Mourning dove,Sylva,Jackson,E,3/14/22
+2022-0071,3/11/22,COGR,Common grackle,Banner Elk,Avery,D24,3/12/22
+2022-0072,3/11/22,RODO,Rock dove,Asheville,Buncombe,E,4/1/22
+2022-0073,3/11/22,PELE,White-footed mouse,Burnsville,Yancey,D,3/12/22
+2022-0074,3/15/22,RTHA,Red-tailed hawk,Marshall,Madison,E,6/23/22
+2022-0075,3/15/22,TUVU,Turkey vulture,Asheville,Buncombe,R,4/6/22
+2022-0076,3/15/22,MODO,Mourning dove,Weaverville,Buncombe,R,4/1/22
+2022-0077,3/15/22,RODO,Rock dove,Pisgah Forest,Transylvania,E,4/20/22
+2022-0078,3/15/22,HOFI,House finch,Asheville,Buncombe,R,3/23/22
+2022-0079,3/15/22,AMGO,American goldfinch,Sylva,Jackson,D,4/20/22
+2022-0080,3/16/22,AMGO,American goldfinch,Alexander,Buncombe,R,5/18/22
+2022-0081,3/18/22,DIVI,Virginia opossum,Boone,Watauga,DOA,3/18/22
+2022-0082,3/18/22,RTHA,Red-tailed hawk,Mill Spring,Polk,D,3/21/22
+2022-0083,3/18/22,MODO,Mourning dove,Blowing Rock,Watauga,R,8/23/22
+2022-0084,3/19/22,RTHA,Red-tailed hawk,Morganton,Burke,R,7/6/22
+2022-0085,3/20/22,NOCA,Northern cardinal,Mooreseville,NA,E24,3/21/22
+2022-0086,3/20/22,MODO,Mourning dove,,NA,E,4/22/22
+2022-0087,3/20/22,PIWO,Pileated woodpecker,Wilkesboro,Wilkes,D,3/21/22
+2022-0088,3/21/22,GBHE,Great blue heron,Deep Gap,Watauga,E,3/23/22
+2022-0089,3/22/22,BCCH,Black-capped chickadee,,NA,R,3/28/22
+2022-0090,3/22/22,SCCA,Eastern gray squirrel,Zionville,Watauga,R,5/30/22
+2022-0091,3/23/22,RODO,Rock dove,Asheville,Buncombe,R,5/5/22
+2022-0092,3/23/22,RTHA,Red-tailed hawk,Burnsville,Yancey,D24,3/23/22
+2022-0093,3/23/22,EASO,Eastern screech owl,Tuckasegee,Jackson,R,4/22/22
+2022-0094,3/23/22,EAPH,Eastern phoebe,Weaverville,Buncombe,D24,3/23/22
+2022-0095,3/23/22,TECA,Eastern box turtle,Wilksborro,NA,D,3/30/22
+2022-0096,3/26/22,RTHA,Red-tailed hawk,Concord,Cabarrus,Reh,0000-00-00
+2022-0097,3/26/22,GHOW,Great horned owl,,NA,E,5/13/22
+2022-0098,3/28/22,RTHA,Red-tailed hawk,Sylva,Jackson,E24,3/28/22
+2022-0099,3/30/22,AMRO,American robin,wilkboro,NA,D24,3/30/22
+2022-0100,3/30/22,SYFL,Eastern cottontail,Boone,Watauga,T,3/31/22
+2022-0101,3/30/22,SYFL,Eastern cottontail,Boone,Watauga,T,3/31/22
+2022-0102,3/30/22,SYFL,Eastern cottontail,Boone,Watauga,D24,3/31/22
+2022-0103,3/30/22,SYFL,Eastern cottontail,Boone,Watauga,T,3/31/22
+2022-0104,3/30/22,SYFL,Eastern cottontail,Boone,Watauga,T,3/31/22
+2022-0105,3/31/22,BAEA,Bald Eagle,Ronda,Wilkes,R,4/6/22
+2022-0106,3/31/22,BDOW,Barred owl,Mills River,Henderson,E,4/11/22
+2022-0107,3/31/22,MODO,Mourning dove,Asheville,Buncombe,D,4/11/22
+2022-0108,3/31/22,RTHA,Red-tailed hawk,Hendersonville,Henderson,E24,4/1/22
+2022-0109,4/1/22,NOMO,Northern mockingbird,Morganton,Burke,E,4/29/22
+2022-0110,4/1/22,COGR,Common grackle,Boone,Watauga,D24,4/2/22
+2022-0111,4/2/22,TUTI,Tufted titmouse,Morganton,Burke,R,5/11/22
+2022-0112,4/3/22,NOFL,Northern flicker,Roaring River,Wilkes,D24,4/3/22
+2022-0113,4/3/22,BDOW,Barred owl,,NA,E24,4/4/22
+2022-0114,4/4/22,BDOW,Barred owl,Zionville,Watauga,R,5/7/22
+2022-0115,4/5/22,SYFL,Eastern cottontail,,NA,D24,4/5/22
+2022-0116,4/5/22,RSHA,Red-shouldered hawk,Morganton,Burke,R,5/3/22
+2022-0117,4/5/22,TRES,Tree swallow,Asheville,Buncombe,D,4/7/22
+2022-0118,4/6/22,COGR,Common grackle,burnsville,Yancey,R,5/18/22
+2022-0119,4/6/22,EASO,Eastern screech owl,Hiville,Henderson,E24,4/7/22
+2022-0120,4/6/22,RODO,Rock dove,Franklin,Macon,T,5/3/22
+2022-0121,4/7/22,PELE,White-footed mouse,Newland,Avery,R,4/7/22
+2022-0122,4/7/22,???,unknown,Wilkesboro,Wilkes,D24,4/7/22
+2022-0123,4/8/22,DIVI,Virginia opossum,,NA,R,5/12/22
+2022-0124,4/8/22,DIVI,Virginia opossum,,NA,R,5/12/22
+2022-0125,4/8/22,DIVI,Virginia opossum,Morganton,Burke,R,5/12/22
+2022-0126,4/8/22,DIVI,Virginia opossum,,NA,R,5/12/22
+2022-0127,4/8/22,PELE,White-footed mouse,Boone,Watauga,R,4/12/22
+2022-0128,4/9/22,COHA,Cooper's Hawk,Banner Elk,Avery,R,4/11/22
+2022-0129,4/10/22,OSPR,Osprey,Connelly springs,Burke,E,4/13/22
+2022-0130,4/10/22,PELE,White-footed mouse,Zionville,Watauga,EOA,4/10/22
+2022-0131,4/10/22,PELE,White-footed mouse,Zionville,Watauga,EOA,4/10/22
+2022-0132,4/10/22,SYFL,Eastern cottontail,Boone,Watauga,R,4/22/22
+2022-0133,4/11/22,MODO,Mourning dove,Boone,Watauga,D,5/17/22
+2022-0134,4/11/22,AMGO,American goldfinch,Bakersville,Mitchell,DOA,4/11/22
+2022-0135,4/11/22,HOFI,House finch,Asheville,Buncombe,R,5/10/22
+2022-0136,4/11/22,HOFI,House finch,,NA,D,4/16/22
+2022-0137,4/11/22,MODO,Mourning dove,Asheville,Buncombe,R,5/5/22
+2022-0138,4/12/22,NRWS,Northern rough-winged swallow,Boone,Watauga,D24,4/13/22
+2022-0139,4/12/22,DIVI,Virginia opossum,Candler,Buncombe,E,5/13/22
+2022-0140,4/12/22,AMGO,American goldfinch,Chapel Hill,Orange,E,4/16/22
+2022-0141,4/12/22,MODO,Mourning dove,Cullowhee,Jackson,R,4/14/22
+2022-0142,4/12/22,SYFL,Eastern cottontail,Millers Creek,Wilkes,E24,4/12/22
+2022-0143,4/12/22,BWHA,Broad-winged hawk,Lake Lure,Rutherford,R,4/27/22
+2022-0144,4/13/22,SYFL,Eastern cottontail,Bakersville,Mitchell,D,4/15/22
+2022-0145,4/13/22,NRWS,Northern rough-winged swallow,Zionville,Watauga,E24,4/13/22
+2022-0146,4/14/22,YRWA,Yellow-Rumped Warbler,Hudson,Caldwell,D,4/16/22
+2022-0147,4/14/22,DIVI,Virginia opossum,Morganton,Burke,E,4/27/22
+2022-0148,4/14/22,MODO,Mourning dove,Todd,Ashe,E24,4/14/22
+2022-0149,4/14/22,DIVI,Virginia opossum,Taylorsville,Alexander,EOA,4/14/22
+2022-0150,4/14/22,DIVI,Virginia opossum,Taylorsville,Alexander,EOA,4/14/22
+2022-0151,4/14/22,DIVI,Virginia opossum,Taylorsville,Alexander,EOA,4/14/22
+2022-0152,4/14/22,DIVI,Virginia opossum,Taylorsville,Alexander,EOA,4/14/22
+2022-0153,4/14/22,DIVI,Virginia opossum,Taylorsville,Alexander,EOA,4/14/22
+2022-0154,4/14/22,DIVI,Virginia opossum,Taylorsville,Alexander,EOA,4/14/22
+2022-0155,4/14/22,DIVI,Virginia opossum,Taylorsville,Alexander,EOA,4/14/22
+2022-0156,4/15/22,CAWR,Carolina wren,Hickory,Catawba,D,4/17/22
+2022-0157,4/15/22,CAWR,Carolina wren,Hickory,Catawba,D,4/17/22
+2022-0158,4/15/22,HOFI,House finch,Weaverville,Buncombe,R,5/10/22
+2022-0159,4/15/22,HOFI,House finch,Weaverville,Buncombe,R,5/10/22
+2022-0160,4/15/22,HETH,Hermit thrush,Asheville,Buncombe,E,7/2/22
+2022-0161,4/15/22,MODO,Mourning dove,Rutherford,NA,R,5/5/22
+2022-0162,4/15/22,AMCR,American crow,Asheville,Buncombe,D,4/18/22
+2022-0163,4/15/22,MODO,Mourning dove,Candler,Buncombe,R,6/23/22
+2022-0164,4/15/22,PELE,White-footed mouse,Asheville,Buncombe,R,4/27/22
+2022-0165,4/16/22,GLVO,Southern flying squirrel,Newland,Avery,R,5/30/22
+2022-0166,4/16/22,GLVO,Southern flying squirrel,Newland,Avery,R,5/30/22
+2022-0167,4/16/22,DIVI,Virginia opossum,Boone,Watauga,E,7/5/22
+2022-0168,4/17/22,DIVI,Virginia opossum,,NA,R,4/29/22
+2022-0169,4/17/22,DIVI,Virginia opossum,,NA,R,4/29/22
+2022-0170,4/17/22,DIVI,Virginia opossum,,NA,R,4/29/22
+2022-0171,4/18/22,DIVI,Virginia opossum,,NA,E,4/20/22
+2022-0172,4/18/22,GLVO,Southern flying squirrel,Linville,Avery,D24,4/18/22
+2022-0173,4/18/22,SYFL,Eastern cottontail,Burnsville,Yancey,E,5/20/22
+2022-0174,4/20/22,PELE,White-footed mouse,,NA,E,4/26/22
+2022-0175,4/21/22,EUST,European starling,Banner Elk,Avery,R,4/23/22
+2022-0176,4/22/22,DIVI,Virginia opossum,,NA,DOA,4/22/22
+2022-0177,4/22/22,DIVI,Virginia opossum,Boone,Watauga,D,5/2/22
+2022-0178,4/22/22,DIVI,Virginia opossum,Boone,Watauga,R,5/28/22
+2022-0179,4/22/22,DIVI,Virginia opossum,Boone,Watauga,D,5/2/22
+2022-0180,4/22/22,DIVI,Virginia opossum,Boone,Watauga,D,5/1/22
+2022-0181,4/22/22,DIVI,Virginia opossum,Boone,Watauga,D,5/2/22
+2022-0182,4/22/22,DIVI,Virginia opossum,Boone,Watauga,R,5/28/22
+2022-0183,4/22/22,DIVI,Virginia opossum,Boone,Watauga,D,5/6/22
+2022-0184,4/22/22,DIVI,Virginia opossum,Boone,Watauga,R,5/28/22
+2022-0185,4/22/22,DIVI,Virginia opossum,Boone,Watauga,E,5/9/22
+2022-0186,4/22/22,DIVI,Virginia opossum,Boone,Watauga,D,5/3/22
+2022-0187,4/22/22,BRTH,Brown thrasher,Bakersville,Mitchell,D24,4/23/22
+2022-0188,4/22/22,SCCA,Eastern gray squirrel,Banner Elk,Avery,R,5/30/22
+2022-0189,4/23/22,GLVO,Southern flying squirrel,Newland,Avery,R,4/25/22
+2022-0190,4/23/22,SYFL,Eastern cottontail,Spruce Pine,Mitchell,D,4/25/22
+2022-0191,4/24/22,TAST,Eastern chipmunk,Banner Elk,Avery,R,9/8/22
+2022-0192,4/24/22,CAGO,Canada goose,Banner Elk,Avery,R,4/25/22
+2022-0193,4/24/22,CAGO,Canada goose,Banner Elk,Avery,R,4/25/22
+2022-0194,4/24/22,TAHU,Red squirrel,Banner Elk,Avery,R,5/2/22
+2022-0195,4/24/22,RTHU,Ruby-throated hummingbird,Newland,NA,D24,4/24/22
+2022-0196,4/25/22,RTHA,Red-tailed hawk,Conover,Catawba,E,5/2/22
+2022-0197,4/25/22,HOFI,House finch,Boone,Watauga,DOA,4/25/22
+2022-0198,4/25/22,SYFL,Eastern cottontail,Boone,Watauga,D,5/19/22
+2022-0199,4/25/22,SYFL,Eastern cottontail,Boone,Watauga,D,4/27/22
+2022-0200,4/26/22,DIVI,Virginia opossum,Sugar Grove,Watauga,R,5/18/22
+2022-0201,4/26/22,MAMO,Groundhog,Newland,Avery,R,5/16/22
+2022-0202,4/26/22,CAWR,Carolina wren,Ronda,Wilkes,DOA,4/26/22
+2022-0203,4/26/22,CAWR,Carolina wren,Ronda,Wilkes,DOA,4/26/22
+2022-0204,4/26/22,CAWR,Carolina wren,Ronda,Wilkes,D24,4/26/22
+2022-0205,4/27/22,OSPR,Osprey,Leichester,Buncombe,R,5/17/22
+2022-0206,4/27/22,NESI,Northern water snake,Banner Elk,Avery,D24,4/27/22
+2022-0207,4/28/22,DIVI,Virginia opossum,,NA,D,5/1/22
+2022-0208,4/28/22,DIVI,Virginia opossum,Spruce Pine,Mitchell,R,5/18/22
+2022-0209,4/28/22,SYFL,Eastern cottontail,Morganton,Burke,D,5/12/22
+2022-0210,4/28/22,SYFL,Eastern cottontail,Morganton,Burke,E,5/20/22
+2022-0211,4/28/22,DIVI,Virginia opossum,Spruce Pine,Mitchell,R,4/29/22
+2022-0212,4/28/22,SYFL,Eastern cottontail,Blowing Rock,Watauga,D24,4/29/22
+2022-0213,4/28/22,EATO,Eastern towhee,,NA,D24,4/28/22
+2022-0214,4/29/22,BDOW,Barred owl,Morganton,Burke,DOA,4/29/22
+2022-0215,4/29/22,RTHU,Ruby-throated hummingbird,Banner Elk,Avery,R,4/29/22
+2022-0216,4/29/22,DIVI,Virginia opossum,Asheville,Buncombe,DOA,4/29/22
+2022-0217,4/29/22,DIVI,Virginia opossum,Asheville,Buncombe,R,5/21/22
+2022-0218,4/29/22,DIVI,Virginia opossum,Asheville,Buncombe,R,5/28/22
+2022-0219,4/29/22,DIVI,Virginia opossum,Asheville,Buncombe,R,5/28/22
+2022-0220,4/29/22,DIVI,Virginia opossum,Asheville,Buncombe,R,5/21/22
+2022-0221,4/29/22,DIVI,Virginia opossum,Asheville,Buncombe,R,5/28/22
+2022-0222,4/29/22,DIVI,Virginia opossum,Asheville,Buncombe,R,5/21/22
+2022-0223,4/29/22,DIVI,Virginia opossum,Blowing Rock,Watauga,R,6/11/22
+2022-0224,4/29/22,DIVI,Virginia opossum,Blowing Rock,Watauga,D,5/27/22
+2022-0225,4/29/22,DIVI,Virginia opossum,Blowing Rock,Watauga,R,5/28/22
+2022-0226,4/29/22,DIVI,Virginia opossum,Blowing Rock,Watauga,R,5/28/22
+2022-0227,4/29/22,DIVI,Virginia opossum,Blowing Rock,Watauga,R,6/11/22
+2022-0228,4/29/22,DIVI,Virginia opossum,Blowing Rock,Watauga,E,5/27/22
+2022-0229,4/30/22,SCCA,Eastern gray squirrel,Leicster,NA,D,5/3/22
+2022-0230,4/30/22,AMCR,American crow,Newland,Avery,T,7/21/22
+2022-0231,4/30/22,SYFL,Eastern cottontail,Boone,Watauga,D24,4/30/22
+2022-0232,4/30/22,SCCA,Eastern gray squirrel,Mars Hill,Madison,E,5/6/22
+2022-0233,5/1/22,SYFL,Eastern cottontail,,NA,R,5/5/22
+2022-0234,5/1/22,MAMO,Groundhog,,Watauga,R,7/15/22
+2022-0235,5/3/22,BDOW,Barred owl,Newton,Catawba,D,5/4/22
+2022-0236,5/3/22,WBNU,White-breasted nuthatch,Hendersonville,Henderson,R,5/18/22
+2022-0237,5/3/22,EASO,Eastern screech owl,Sylva,Jackson,R,6/29/22
+2022-0238,5/4/22,SYFL,Eastern cottontail,Spruce Pine,Mitchell,DOA,5/4/22
+2022-0239,5/4/22,DIVI,Virginia opossum,Burnsville,Yancey,R,5/18/22
+2022-0240,5/4/22,SYFL,Eastern cottontail,Vilas,Watauga,R,5/10/22
+2022-0241,5/4/22,DIVI,Virginia opossum,,NA,D,5/6/22
+2022-0242,5/5/22,SYFL,Eastern cottontail,Boone,Watauga,R,5/12/22
+2022-0243,5/5/22,SYFL,Eastern cottontail,Boone,Watauga,R,5/12/22
+2022-0244,5/5/22,SYFL,Eastern cottontail,Boone,Watauga,R,5/12/22
+2022-0245,5/5/22,SYFL,Eastern cottontail,Boone,Watauga,R,5/12/22
+2022-0246,5/5/22,EABL,Eastern bluebird,Trade,NA,E24,5/5/22
+2022-0247,5/6/22,EASO,Eastern screech owl,Arden,Buncombe,R,6/28/22
+2022-0248,5/6/22,EASO,Eastern screech owl,Arden,Buncombe,R,6/28/22
+2022-0249,5/6/22,MAMO,Groundhog,Jonas Ridge,Burke,E24,5/6/22
+2022-0250,5/6/22,CHSE,Snapping turtle,Boone,Watauga,R,6/10/22
+2022-0251,5/6/22,EUST,European starling,,NA,R,6/1/22
+2022-0252,5/7/22,EAPH,Eastern phoebe,Ferguson,Wilkes,R,6/18/22
+2022-0253,5/7/22,PIWO,Pileated woodpecker,,NA,R,6/12/22
+2022-0254,5/7/22,SYFL,Eastern cottontail,Banner Elk,Avery,E,5/9/22
+2022-0255,5/8/22,CAWR,Carolina wren,Newland,Avery,D24,5/9/22
+2022-0256,5/9/22,SYFL,Eastern cottontail,Lenoir,Caldwell,E24,5/9/22
+2022-0257,5/9/22,BWHA,Broad-winged hawk,Lenoir,Caldwell,R,5/24/22
+2022-0258,5/9/22,RSHA,Red-shouldered hawk,State Road,Surry,R,7/11/22
+2022-0259,5/10/22,SYFL,Eastern cottontail,Zionville,Watauga,R,5/12/22
+2022-0260,5/10/22,SYFL,Eastern cottontail,Zionville,Watauga,R,5/12/22
+2022-0261,5/10/22,EUST,European starling,,NA,R,6/1/22
+2022-0262,5/11/22,RTHU,Ruby-throated hummingbird,,NA,E,5/14/22
+2022-0263,5/11/22,DIVI,Virginia opossum,,NA,R,6/9/22
+2022-0264,5/11/22,DIVI,Virginia opossum,,NA,R,6/11/22
+2022-0265,5/11/22,DIVI,Virginia opossum,,NA,R,6/11/22
+2022-0266,5/11/22,DIVI,Virginia opossum,,NA,R,6/9/22
+2022-0267,5/11/22,DIVI,Virginia opossum,,NA,R,6/9/22
+2022-0268,5/11/22,DIVI,Virginia opossum,,NA,D,6/6/22
+2022-0269,5/11/22,DIVI,Virginia opossum,,NA,R,6/9/22
+2022-0270,5/11/22,DIVI,Virginia opossum,,NA,R,6/9/22
+2022-0271,5/11/22,RTHU,Ruby-throated hummingbird,,NA,E,5/14/22
+2022-0272,5/11/22,CEWA,Cedar waxwing,Swannanoa,Buncombe,EOA,5/11/22
+2022-0273,5/11/22,EATO,Eastern towhee,,NA,R,6/13/22
+2022-0274,5/11/22,NOMO,Northern mockingbird,Marion,McDowell,R,5/25/22
+2022-0275,5/11/22,RBGR,Rose-breasted grosbeak,Boone,Watauga,R,6/13/22
+2022-0276,5/11/22,BRTH,Brown thrasher,,NA,R,5/27/22
+2022-0277,5/12/22,BRTH,Brown thrasher,Hudson,Caldwell,R,6/27/22
+2022-0278,5/12/22,RTHU,Ruby-throated hummingbird,Boone,Watauga,D24,5/13/22
+2022-0279,5/12/22,TRES,Tree swallow,Green Mountain,Yancey,D,6/10/22
+2022-0280,5/12/22,DIVI,Virginia opossum,Marion,McDowell,R,6/11/22
+2022-0281,5/12/22,DIVI,Virginia opossum,Marion,McDowell,R,6/11/22
+2022-0282,5/12/22,DIVI,Virginia opossum,Newland,Avery,R,6/9/22
+2022-0283,5/12/22,DIVI,Virginia opossum,,NA,R,6/9/22
+2022-0284,5/12/22,MAMO,Groundhog,Boone,Watauga,R,7/15/22
+2022-0285,5/13/22,DIVI,Virginia opossum,Sugar Grove,Watauga,R,5/21/22
+2022-0286,5/13/22,EASO,Eastern screech owl,,NA,R,6/27/22
+2022-0287,5/13/22,EASO,Eastern screech owl,,NA,R,6/27/22
+2022-0288,5/13/22,MODO,Mourning dove,Valdese,Burke,R,6/1/22
+2022-0289,5/13/22,MODO,Mourning dove,,NA,R,6/1/22
+2022-0290,5/13/22,EUST,European starling,Black Mountain,Buncombe,D,5/15/22
+2022-0291,5/13/22,DIVI,Virginia opossum,Elk Park,Avery,D,5/15/22
+2022-0292,5/13/22,DIVI,Virginia opossum,Elk Park,Avery,R,6/11/22
+2022-0293,5/13/22,DIVI,Virginia opossum,Elk Park,Avery,E,5/17/22
+2022-0294,5/13/22,BARS,Barn swallow,Banner Elk,Avery,D24,5/13/22
+2022-0295,5/14/22,DIVI,Virginia opossum,Spruce Pine,Mitchell,R,6/13/22
+2022-0296,5/14/22,DIVI,Virginia opossum,Spruce Pine,Mitchell,R,6/26/22
+2022-0297,5/14/22,DIVI,Virginia opossum,Spruce Pine,Mitchell,R,6/13/22
+2022-0298,5/14/22,DIVI,Virginia opossum,Spruce Pine,Mitchell,R,6/25/22
+2022-0299,5/14/22,BRTH,Brown thrasher,Millers Creek,Wilkes,D24,5/15/22
+2022-0300,5/14/22,SYFL,Eastern cottontail,,NA,R,5/27/22
+2022-0301,5/14/22,SYFL,Eastern cottontail,,NA,R,6/3/22
+2022-0302,5/14/22,SYFL,Eastern cottontail,,NA,R,5/27/22
+2022-0303,5/14/22,SYFL,Eastern cottontail,,NA,R,6/25/22
+2022-0304,5/14/22,SYFL,Eastern cottontail,,NA,R,5/27/22
+2022-0305,5/14/22,SYFL,Eastern cottontail,,NA,R,5/25/22
+2022-0306,5/14/22,SYFL,Eastern cottontail,,NA,R,5/27/22
+2022-0307,5/14/22,SYFL,Eastern cottontail,,NA,R,5/27/22
+2022-0308,5/14/22,SYFL,Eastern cottontail,,NA,R,5/25/22
+2022-0309,5/15/22,SYFL,Eastern cottontail,Blowing Rock,Watauga,R,5/18/22
+2022-0310,5/15/22,DIVI,Virginia opossum,Blowing Rock,Watauga,R,5/18/22
+2022-0311,5/15/22,EABL,Eastern bluebird,Bakersville,Mitchell,R,6/13/22
+2022-0312,5/15/22,EABL,Eastern bluebird,Bakersville,Mitchell,R,6/13/22
+2022-0313,5/15/22,EABL,Eastern bluebird,Bakersville,Mitchell,R,6/13/22
+2022-0314,5/15/22,EABL,Eastern bluebird,Bakersville,Mitchell,R,6/13/22
+2022-0315,5/15/22,EABL,Eastern bluebird,Bakersville,Mitchell,R,6/13/22
+2022-0316,5/16/22,SYFL,Eastern cottontail,Catawba,Catawba,R,5/25/22
+2022-0317,5/16/22,SYFL,Eastern cottontail,Bakersville,Mitchell,D24,5/17/22
+2022-0318,5/16/22,EUST,European starling,,NA,R,6/1/22
+2022-0319,5/16/22,EUST,European starling,,NA,R,5/21/22
+2022-0320,5/16/22,EUST,European starling,,NA,R,5/21/22
+2022-0321,5/16/22,EUST,European starling,,NA,R,5/21/22
+2022-0322,5/16/22,EUST,European starling,,NA,R,5/21/22
+2022-0323,5/16/22,TAST,Eastern chipmunk,Newland,Avery,R,6/6/22
+2022-0324,5/16/22,MODO,Mourning dove,Banner Elk,Avery,D24,5/16/22
+2022-0325,5/16/22,COGR,Common grackle,Boone,NA,D24,5/17/22
+2022-0326,5/16/22,DIVI,Virginia opossum,Roan Mountain,NA,D24,5/17/22
+2022-0327,5/16/22,MAMO,Groundhog,Roan Mountain,NA,E,5/27/22
+2022-0328,5/16/22,CAWR,Carolina wren,,NA,D24,5/17/22
+2022-0329,5/16/22,CAWR,Carolina wren,,NA,D24,5/17/22
+2022-0330,5/16/22,CAWR,Carolina wren,,NA,D24,5/17/22
+2022-0331,5/16/22,CAWR,Carolina wren,,NA,D24,5/17/22
+2022-0332,5/16/22,CAWR,Carolina wren,,NA,D24,5/17/22
+2022-0333,5/16/22,DIVI,Virginia opossum,Boone,Watauga,D,5/21/22
+2022-0334,5/16/22,DIVI,Virginia opossum,Boone,Watauga,R,6/13/22
+2022-0335,5/16/22,DIVI,Virginia opossum,Boone,Watauga,R,6/11/22
+2022-0336,5/16/22,DIVI,Virginia opossum,Boone,Watauga,R,6/9/22
+2022-0337,5/16/22,DIVI,Virginia opossum,Boone,Watauga,R,6/11/22
+2022-0338,5/16/22,DIVI,Virginia opossum,Boone,Watauga,R,6/9/22
+2022-0339,5/16/22,GHOW,Great horned owl,Newton,Catawba,D24,5/17/22
+2022-0340,5/17/22,AMGO,American goldfinch,Bakersville,Mitchell,D24,5/17/22
+2022-0341,5/17/22,TECA,Eastern box turtle,Green Mountain,Yancey,DOA,5/17/22
+2022-0342,5/17/22,AMRO,American robin,Linville,Avery,R,6/23/22
+2022-0343,5/17/22,COGR,Common grackle,Banner Elk,Avery,D,5/21/22
+2022-0344,5/18/22,PELE,White-footed mouse,Banner Elk,Avery,D,5/22/22
+2022-0345,5/18/22,AMCR,American crow,Burnsville,Yancey,R,7/15/22
+2022-0346,5/18/22,HOSP,House sparrow,Linville,Avery,D,5/21/22
+2022-0347,5/19/22,BDOW,Barred owl,,NA,DOA,5/19/22
+2022-0348,5/19/22,AMRO,American robin,,NA,DOA,5/19/22
+2022-0349,5/19/22,DIVI,Virginia opossum,Boone,Watauga,R,6/13/22
+2022-0350,5/19/22,DIVI,Virginia opossum,Boone,Watauga,R,6/13/22
+2022-0351,5/19/22,DIVI,Virginia opossum,Boone,Watauga,R,6/27/22
+2022-0352,5/19/22,DIVI,Virginia opossum,Boone,Watauga,R,6/11/22
+2022-0353,5/19/22,DIVI,Virginia opossum,Boone,Watauga,R,6/11/22
+2022-0354,5/19/22,DIVI,Virginia opossum,Boone,Watauga,R,6/13/22
+2022-0355,5/19/22,DIVI,Virginia opossum,Boone,Watauga,R,6/13/22
+2022-0356,5/19/22,GRCA,Gray catbird,Elk Park,Avery,R,5/27/22
+2022-0357,5/20/22,DIVI,Virginia opossum,,NA,R,5/21/22
+2022-0358,5/20/22,DIVI,Virginia opossum,,NA,R,5/21/22
+2022-0359,5/20/22,BRTH,Brown thrasher,Hickory,Catawba,R,6/18/22
+2022-0360,5/20/22,BLJA,Blue jay,Spruce Pine,Mitchell,D24,5/20/22
+2022-0361,5/20/22,SYFL,Eastern cottontail,Mountain City,NA,D,5/21/22
+2022-0362,5/20/22,RTHA,Red-tailed hawk,Morganton,Burke,D24,5/21/22
+2022-0363,5/20/22,AMRO,American robin,Newland,Avery,R,6/13/22
+2022-0364,5/20/22,NOCA,Northern cardinal,Bakersville,Mitchell,D,5/23/22
+2022-0365,5/21/22,NOCA,Northern cardinal,Lenoir,Caldwell,R,5/21/22
+2022-0366,5/21/22,EAPH,Eastern phoebe,Banner Elk,Avery,R,6/15/22
+2022-0367,5/21/22,EAPH,Eastern phoebe,Banner Elk,Avery,R,6/15/22
+2022-0368,5/21/22,EAPH,Eastern phoebe,,NA,R,6/15/22
+2022-0369,5/21/22,RSHA,Red-shouldered hawk,Asheville,Buncombe,D24,5/21/22
+2022-0370,5/21/22,DIVI,Virginia opossum,,NA,R,7/16/22
+2022-0371,5/21/22,DIVI,Virginia opossum,,NA,R,7/18/22
+2022-0372,5/21/22,DIVI,Virginia opossum,,NA,R,7/16/22
+2022-0373,5/21/22,DIVI,Virginia opossum,,NA,R,7/18/22
+2022-0374,5/21/22,DIVI,Virginia opossum,,NA,R,7/16/22
+2022-0375,5/21/22,DIVI,Virginia opossum,,NA,R,7/16/22
+2022-0376,5/21/22,DIVI,Virginia opossum,,NA,R,7/18/22
+2022-0377,5/21/22,DIVI,Virginia opossum,,NA,R,7/16/22
+2022-0378,5/21/22,DIVI,Virginia opossum,,NA,R,7/18/22
+2022-0379,5/21/22,DIVI,Virginia opossum,,NA,R,7/16/22
+2022-0380,5/21/22,DIVI,Virginia opossum,,NA,R,7/18/22
+2022-0381,5/22/22,AMRO,American robin,Linville,Avery,R,6/13/22
+2022-0382,5/22/22,AMRO,American robin,Linville,Avery,R,6/13/22
+2022-0383,5/22/22,MODO,Mourning dove,Candler,Buncombe,D,5/26/22
+2022-0384,5/22/22,WITU,Wild turkey,Hudson,Caldwell,R,5/26/22
+2022-0385,5/22/22,RBWO,Red-bellied woodpecker,Hendersonville,Henderson,D,5/23/22
+2022-0386,5/22/22,AMRO,American robin,Fleetwood,Ashe,D24,5/23/22
+2022-0387,5/23/22,PELE,White-footed mouse,Boone,Watauga,E,5/26/22
+2022-0388,5/23/22,EABL,Eastern bluebird,,NA,R,6/29/22
+2022-0389,5/23/22,EABL,Eastern bluebird,,NA,R,6/29/22
+2022-0390,5/23/22,EABL,Eastern bluebird,,NA,R,6/29/22
+2022-0391,5/23/22,EABL,Eastern bluebird,,NA,R,6/29/22
+2022-0392,5/23/22,EABL,Eastern bluebird,Ronda,NA,R,6/29/22
+2022-0393,5/23/22,EASO,Eastern screech owl,,NA,R,6/27/22
+2022-0394,5/23/22,DIVI,Virginia opossum,Morganton,Burke,E,8/3/22
+2022-0395,5/23/22,TUTI,Tufted titmouse,Asheville,Buncombe,E,6/8/22
+2022-0396,5/23/22,SYFL,Eastern cottontail,Sugar Grove,Watauga,R,6/3/22
+2022-0397,5/23/22,SYFL,Eastern cottontail,,NA,R,6/3/22
+2022-0398,5/23/22,SYFL,Eastern cottontail,,NA,R,6/3/22
+2022-0399,5/23/22,SYFL,Eastern cottontail,,NA,R,6/3/22
+2022-0400,5/23/22,SYFL,Eastern cottontail,,NA,R,6/3/22
+2022-0401,5/23/22,RSHA,Red-shouldered hawk,Wilkesboro,Wilkes,R,6/25/22
+2022-0402,5/24/22,HOFI,House finch,,NA,R,7/6/22
+2022-0403,5/24/22,BLJA,Blue jay,Weaverville,Buncombe,D,5/26/22
+2022-0404,5/24/22,AMRO,American robin,Morganton,Burke,D24,5/25/22
+2022-0405,5/25/22,SYFL,Eastern cottontail,Spruce Pine,Mitchell,D24,5/26/22
+2022-0406,5/25/22,SYFL,Eastern cottontail,Spruce Pine,Mitchell,D,5/26/22
+2022-0407,5/25/22,AMCR,American crow,Wagnesville,NA,R,7/15/22
+2022-0408,5/25/22,AMCR,American crow,Wagnesville,NA,R,7/15/22
+2022-0409,5/25/22,AMCR,American crow,Wagnesville,NA,D,6/19/22
+2022-0410,5/25/22,AMRO,American robin,Boone,Watauga,D24,5/25/22
+2022-0411,5/25/22,EUST,European starling,Boone,Watauga,D24,5/25/22
+2022-0412,5/25/22,GLVO,Southern flying squirrel,Roan Mtn,Mitchell,R,5/30/22
+2022-0413,5/25/22,EAPH,Eastern phoebe,Winston-Salem,NA,R,6/1/22
+2022-0414,5/26/22,AMKE,American kestrel,North Wilkesboro,Wilkes,D,6/18/22
+2022-0415,5/26/22,MODO,Mourning dove,Asheville,Buncombe,R,6/9/22
+2022-0416,5/26/22,HOFI,House finch,Asheville,Buncombe,D24,5/27/22
+2022-0417,5/27/22,RSHA,Red-shouldered hawk,Millers Creek,Wilkes,R,6/25/22
+2022-0418,5/27/22,PELE,White-footed mouse,Irmo,NA,R,6/1/22
+2022-0419,5/27/22,PELE,White-footed mouse,Irmo,NA,R,6/1/22
+2022-0420,5/27/22,RTHA,Red-tailed hawk,,Catawba,R,6/30/22
+2022-0422,5/27/22,CHSE,Snapping turtle,Vilas,Watauga,D,7/18/22
+2022-0423,5/27/22,BLVU,Black vulture,Valdese,Burke,E24,5/27/22
+2022-0424,5/27/22,ODVI,White-tailed deer,Newland,Avery,DOA,5/27/22
+2022-0425,5/28/22,WBNU,White-breasted nuthatch,Pineola,Avery,D24,5/28/22
+2022-0426,5/28/22,MODO,Mourning dove,Banner Elk,Avery,R,8/23/22
+2022-0427,5/28/22,TECA,Eastern box turtle,"Burnsville, NC",Yancey,R,6/24/22
+2022-0428,5/28/22,SYFL,Eastern cottontail,Green Mountain,Yancey,EOA,5/28/22
+2022-0429,5/28/22,OSPR,Osprey,Clyde,Haywood,D24,5/29/22
+2022-0430,5/28/22,MODO,Mourning dove,Vilas,Watauga,R,6/1/22
+2022-0431,5/28/22,MAMO,Groundhog,Banner Elk,Avery,D24,5/29/22
+2022-0432,5/29/22,NOCA,Northern cardinal,Boone,Watauga,D,5/30/22
+2022-0433,5/29/22,AMRO,American robin,Boone,Watauga,R,6/23/22
+2022-0434,5/29/22,GHOW,Great horned owl,Hays,Wilkes,D24,5/29/22
+2022-0435,5/29/22,NOCA,Northern cardinal,Banner Elk,Avery,D,5/31/22
+2022-0436,5/29/22,NOCA,Northern cardinal,Banner Elk,Avery,D,5/31/22
+2022-0437,5/29/22,NOCA,Northern cardinal,Banner Elk,Avery,DOA,5/29/22
+2022-0438,5/30/22,NOCA,Northern cardinal,,NA,D,6/2/22
+2022-0439,5/30/22,EASO,Eastern screech owl,Asheville,Buncombe,R,6/29/22
+2022-0440,5/30/22,TECA,Eastern box turtle,Marshall,Madison,R,9/23/22
+2022-0441,5/30/22,TUTI,Tufted titmouse,,NA,R,6/9/22
+2022-0442,5/30/22,PEFA,Peregrine falcon,Noble,NA,PR,0000-00-00
+2022-0443,5/30/22,NOMO,Northern mockingbird,Asheville,Buncombe,R,6/18/22
+2022-0444,5/30/22,SOSP,Song sparrow,,NA,R,6/15/22
+2022-0445,5/30/22,SOSP,Song sparrow,,NA,R,6/15/22
+2022-0446,5/30/22,BLJA,Blue jay,,NA,T,5/30/22
+2022-0447,5/30/22,BAEA,Bald Eagle,Charlotte,Mecklenburg,T,6/18/22
+2022-0448,5/30/22,EAPH,Eastern phoebe,,NA,R,6/15/22
+2022-0449,5/30/22,PELE,White-footed mouse,Zionville,Watauga,D,5/31/22
+2022-0450,5/30/22,PELE,White-footed mouse,Zionville,Watauga,R,7/3/22
+2022-0451,5/30/22,PELE,White-footed mouse,Zionville,Watauga,D,5/31/22
+2022-0452,5/30/22,PELE,White-footed mouse,Zionville,Watauga,R,7/3/22
+2022-0453,5/31/22,MODO,Mourning dove,Boone,Watauga,R,6/23/22
+2022-0454,5/31/22,WITU,Wild turkey,Green Mountain,Yancey,EOA,5/31/22
+2022-0455,5/31/22,ODVI,White-tailed deer,Vilas,Watauga,T,6/1/22
+2022-0456,5/31/22,SYFL,Eastern cottontail,Boone,Watauga,DOA,5/31/22
+2022-0457,5/31/22,GRCA,Gray catbird,,NA,E,6/2/22
+2022-0458,5/31/22,NOCA,Northern cardinal,,NA,R,7/5/22
+2022-0459,5/31/22,PIWO,Pileated woodpecker,Asheville,Buncombe,R,6/24/22
+2022-0460,5/31/22,SYFL,Eastern cottontail,Asheville,Buncombe,D,6/3/22
+2022-0461,5/31/22,SYFL,Eastern cottontail,Asheville,Buncombe,R,6/9/22
+2022-0462,5/31/22,RSHA,Red-shouldered hawk,Morganton,Burke,E,6/10/22
+2022-0463,6/1/22,BWHA,Broad-winged hawk,Fairview,Buncombe,R,6/10/22
+2022-0464,6/1/22,BDOW,Barred owl,Lenoir,Caldwell,E,6/7/22
+2022-0465,6/1/22,SYFL,Eastern cottontail,Raleigh,Wake,R,6/18/22
+2022-0466,6/1/22,SYFL,Eastern cottontail,Raleigh,Wake,R,6/18/22
+2022-0467,6/1/22,SYFL,Eastern cottontail,Raleigh,Wake,R,6/18/22
+2022-0468,6/1/22,HOLA,Horned Lark,Nachville,NA,R,7/21/22
+2022-0469,6/1/22,EATO,Eastern towhee,Warrensville,Ashe,D,6/2/22
+2022-0470,6/1/22,BLJA,Blue jay,Morganton,Burke,E,6/21/22
+2022-0471,6/2/22,HOFI,House finch,Hickory,Catawba,R,9/5/22
+2022-0472,6/2/22,MAMO,Groundhog,Banner Elk,Avery,DOA,6/2/22
+2022-0473,6/2/22,MALL,Mallard,Butler,NA,R,6/12/22
+2022-0474,6/2/22,BHCO,Brown-headed cowbird,Pineola,Avery,D,6/2/22
+2022-0475,6/2/22,SYFL,Eastern cottontail,Vilas,Watauga,E,6/10/22
+2022-0476,6/2/22,DEJU,Dark Eyed Junco,Banner Elk,Avery,D,6/3/22
+2022-0477,6/2/22,SYFL,Eastern cottontail,Bakersville,Mitchell,D,6/3/22
+2022-0478,6/2/22,CHSE,Snapping turtle,Boone,Watauga,D24,6/3/22
+2022-0479,6/3/22,TECA,Eastern box turtle,Fries,Grayson,E,6/7/22
+2022-0480,6/3/22,NOPA,Northern Parula,,NA,D24,6/4/22
+2022-0481,6/3/22,ODVI,White-tailed deer,Bakersville,Mitchell,D24,6/3/22
+2022-0482,6/3/22,GRCA,Gray catbird,Roan Mountain,NA,D24,6/4/22
+2022-0483,6/3/22,AMCR,American crow,Asheville,Buncombe,R,7/15/22
+2022-0484,6/3/22,ODVI,White-tailed deer,Roan Mountain,NA,D24,6/4/22
+2022-0485,6/4/22,SYFL,Eastern cottontail,Newland,Avery,D24,6/5/22
+2022-0486,6/4/22,EABL,Eastern bluebird,Newland,Avery,D,6/18/22
+2022-0487,6/4/22,SYFL,Eastern cottontail,Boone,Watauga,R,6/25/22
+2022-0488,6/4/22,RTHA,Red-tailed hawk,Taylorsville,Alexander,D,6/6/22
+2022-0489,6/4/22,WITU,Wild turkey,Blowing Rock,Watauga,T,6/11/22
+2022-0490,6/4/22,DIVI,Virginia opossum,,NA,R,8/5/22
+2022-0491,6/4/22,DIVI,Virginia opossum,,NA,D,6/8/22
+2022-0492,6/5/22,HOFI,House finch,Morganton,Burke,R,7/6/22
+2022-0493,6/5/22,HOFI,House finch,Morganton,Burke,R,7/6/22
+2022-0494,6/5/22,HOFI,House finch,Morganton,Burke,R,7/6/22
+2022-0495,6/5/22,BEKI,Belted kingfisher,Barnarsville,Buncombe,D24,6/6/22
+2022-0496,6/5/22,AMRO,American robin,Deep Gap,Watauga,E,6/23/22
+2022-0497,6/5/22,DIVI,Virginia opossum,Lenoir,Caldwell,R,7/4/22
+2022-0498,6/5/22,DIVI,Virginia opossum,Jonas Ridge,Burke,R,7/4/22
+2022-0499,6/6/22,EATO,Eastern towhee,Maiden,Catawba,DOA,6/6/22
+2022-0500,6/6/22,AMCR,American crow,Boone,Watauga,D24,6/6/22
+2022-0501,6/6/22,MODO,Mourning dove,Boone,Watauga,R,8/23/22
+2022-0502,6/6/22,MODO,Mourning dove,Boone,Watauga,D,6/19/22
+2022-0503,6/6/22,WBNU,White-breasted nuthatch,Banner Elk,Avery,D24,6/7/22
+2022-0504,6/6/22,TAST,Eastern chipmunk,Boone,Watauga,D24,6/7/22
+2022-0505,6/6/22,SYFL,Eastern cottontail,Vilas,Watauga,EOA,6/6/22
+2022-0506,6/6/22,ODVI,White-tailed deer,Beech mountain,NA,D24,6/7/22
+2022-0507,6/6/22,DEJU,Dark Eyed Junco,Banner Elk,Avery,DOA,6/6/22
+2022-0508,6/7/22,ODVI,White-tailed deer,Seven Devils,NA,T,6/7/22
+2022-0509,6/7/22,MUMU,House mouse,West Jefferson,Ashe,D24,6/7/22
+2022-0510,6/7/22,MUMU,House mouse,West Jefferson,Ashe,DOA,6/7/22
+2022-0511,6/7/22,???,unknown,West Jefferson,NA,D24,6/8/22
+2022-0512,6/7/22,HOFI,House finch,Wilkesboro,Wilkes,R,6/23/22
+2022-0513,6/7/22,ODVI,White-tailed deer,Pottertown,NA,T,6/7/22
+2022-0514,6/7/22,ELOB,Rat snake,Vilas,Watauga,R,6/7/22
+2022-0515,6/7/22,GLVO,Southern flying squirrel,Vilas,Watauga,R,12/2/22
+2022-0516,6/7/22,CAWR,Carolina wren,,NA,D,6/16/22
+2022-0517,6/7/22,AMKE,American kestrel,,NA,D24,6/8/22
+2022-0518,6/7/22,ELOB,Rat snake,Banner Elk,Avery,D24,6/7/22
+2022-0519,6/7/22,DIVI,Virginia opossum,Banner Elk,Avery,D24,6/8/22
+2022-0520,6/7/22,SYFL,Eastern cottontail,Green Mountain,Yancey,R,6/25/22
+2022-0521,6/7/22,SYFL,Eastern cottontail,,NA,R,6/25/22
+2022-0522,6/7/22,SYFL,Eastern cottontail,,NA,R,6/25/22
+2022-0523,6/7/22,SYFL,Eastern cottontail,,NA,R,6/25/22
+2022-0524,6/7/22,SYFL,Eastern cottontail,,NA,R,6/25/22
+2022-0525,6/7/22,SCJU,Slate Colored Junco,Jonas Ridge,Burke,R,6/8/22
+2022-0526,6/7/22,ODVI,White-tailed deer,,NA,T,6/10/22
+2022-0527,6/8/22,BLJA,Blue jay,Banner Elk,Avery,D24,6/9/22
+2022-0528,6/7/22,ODVI,White-tailed deer,Newland,NA,E,6/10/22
+2022-0529,6/8/22,EUST,European starling,Lenoir,Caldwell,R,7/6/22
+2022-0530,6/8/22,EUST,European starling,Lenoir,Caldwell,R,7/6/22
+2022-0531,6/8/22,EUST,European starling,Lenoir,Caldwell,D24,6/9/22
+2022-0532,6/8/22,EUST,European starling,Lenoir,Caldwell,R,6/27/22
+2022-0533,6/8/22,EUST,European starling,Lenoir,Caldwell,E,6/10/22
+2022-0534,6/8/22,EUST,European starling,Lenoir,Caldwell,R,6/27/22
+2022-0535,6/8/22,EUST,European starling,Lenoir,Caldwell,R,6/27/22
+2022-0536,6/8/22,EUST,European starling,Lenoir,Caldwell,R,6/27/22
+2022-0537,6/8/22,ODVI,White-tailed deer,Minneapolis,Avery,T,6/10/22
+2022-0538,6/8/22,ODVI,White-tailed deer,Sugar Grove,Watauga,T,6/10/22
+2022-0539,6/9/22,RTHA,Red-tailed hawk,West Jefferson,Ashe,R,10/6/22
+2022-0540,6/9/22,BRTH,Brown thrasher,,NA,R,6/27/22
+2022-0541,6/9/22,MODO,Mourning dove,,NA,R,7/5/22
+2022-0542,6/9/22,MODO,Mourning dove,,NA,R,8/23/22
+2022-0543,6/9/22,HOSP,House sparrow,,NA,R,6/30/22
+2022-0544,6/9/22,HOSP,House sparrow,,NA,R,6/30/22
+2022-0545,6/9/22,DEJU,Dark Eyed Junco,Banner Elk,Avery,D24,6/10/22
+2022-0546,6/10/22,PELE,White-footed mouse,,NA,R,7/3/22
+2022-0547,6/10/22,PELE,White-footed mouse,,NA,R,7/3/22
+2022-0548,6/10/22,RTHU,Ruby-throated hummingbird,Purlear,NA,E,6/23/22
+2022-0549,6/11/22,ODVI,White-tailed deer,Blowing Rock,Watauga,T,6/13/22
+2022-0550,6/11/22,ODVI,White-tailed deer,Sugar Grove,Watauga,E24,6/11/22
+2022-0551,6/12/22,ODVI,White-tailed deer,West Jefferson,Ashe,T,6/13/22
+2022-0552,6/12/22,TUTI,Tufted titmouse,Bakersville,Mitchell,D24,6/12/22
+2022-0553,6/12/22,BRTH,Brown thrasher,Jonesborough,NA,R,7/5/22
+2022-0554,6/12/22,BHCO,Brown-headed cowbird,Bakersville,NA,R,7/21/22
+2022-0555,6/12/22,SOSP,Song sparrow,Boone,Watauga,R,6/23/22
+2022-0556,6/12/22,NOFL,Northern flicker,Crossnore,Avery,E24,6/13/22
+2022-0557,6/13/22,ODVI,White-tailed deer,Boone,NA,T,6/13/22
+2022-0558,6/13/22,ODVI,White-tailed deer,Boone,Watauga,T,6/13/22
+2022-0559,6/13/22,SYFL,Eastern cottontail,N. Wilkesboro,NA,R,6/29/22
+2022-0560,6/13/22,SYFL,Eastern cottontail,N. Wilkesboro,NA,R,6/29/22
+2022-0561,6/13/22,ODVI,White-tailed deer,North Wilkesboro,Wilkes,T,6/13/22
+2022-0562,6/13/22,EATO,Eastern towhee,Sugar Grove,Watauga,D,6/14/22
+2022-0563,6/13/22,TAHU,Red squirrel,Mouth of Wilson,NA,D,7/19/22
+2022-0564,6/13/22,NESI,Northern water snake,Elk Park,Avery,Reh,0000-00-00
+2022-0565,6/13/22,HOWR,House wren,Spruce Pine,Mitchell,R,7/11/22
+2022-0566,6/14/22,SYFL,Eastern cottontail,Newland,Avery,D24,6/15/22
+2022-0567,6/14/22,EUST,European starling,Sugar Grove,Watauga,R,7/6/22
+2022-0568,6/14/22,ODVI,White-tailed deer,Laurel Springs,Alleghany,T,6/15/22
+2022-0569,6/14/22,ODVI,White-tailed deer,Boone,Watauga,T,6/15/22
+2022-0570,6/14/22,RBWO,Red-bellied woodpecker,,NA,D,6/16/22
+2022-0571,6/14/22,NRWS,Northern rough-winged swallow,,NA,D24,6/14/22
+2022-0572,6/14/22,EAPH,Eastern phoebe,,NA,D24,6/15/22
+2022-0573,6/14/22,WOTH,Wood thrush,,NA,R,6/29/22
+2022-0574,6/14/22,DEJU,Dark Eyed Junco,,NA,R,6/29/22
+2022-0575,6/14/22,LISY,Wood frog,Burnsville,Yancey,R,6/16/22
+2022-0576,6/14/22,NOFL,Northern flicker,Banner Elk,Avery,R,6/24/22
+2022-0577,6/14/22,AMRO,American robin,,NA,EOA,6/14/22
+2022-0578,6/14/22,BLJA,Blue jay,,NA,D24,6/15/22
+2022-0579,6/14/22,DIVI,Virginia opossum,Banner Elk,Avery,D,6/16/22
+2022-0580,6/15/22,SOSP,Song sparrow,Newland,Avery,D,6/18/22
+2022-0581,6/15/22,RTHA,Red-tailed hawk,,Wilkes,D,9/8/22
+2022-0582,6/15/22,BLJA,Blue jay,Fletcher,NA,R,8/13/22
+2022-0583,6/15/22,TUTI,Tufted titmouse,Boone,Watauga,R,7/2/22
+2022-0584,6/15/22,HOSP,House sparrow,Marion,McDowell,R,7/11/22
+2022-0585,6/15/22,HOWR,House wren,Newland,Avery,R,7/11/22
+2022-0586,6/15/22,CAWR,Carolina wren,Newland,Avery,D24,6/16/22
+2022-0587,6/15/22,CAWR,Carolina wren,Newland,Avery,D24,6/16/22
+2022-0588,6/15/22,HOWR,House wren,Newland,Avery,R,7/11/22
+2022-0589,6/15/22,HOWR,House wren,Newland,Avery,R,7/11/22
+2022-0590,6/16/22,ODVI,White-tailed deer,West Jefferson,Ashe,T,6/19/22
+2022-0591,6/16/22,NOCA,Northern cardinal,Rutherfordton,Rutherford,E,7/18/22
+2022-0592,6/16/22,WTSP,White-throated sparrow,Spruce Pine,Mitchell,D24,6/17/22
+2022-0593,6/16/22,AMRO,American robin,Lenior,NA,D,6/18/22
+2022-0594,6/16/22,TUTI,Tufted titmouse,Asheville,Buncombe,D24,6/17/22
+2022-0595,6/16/22,CAWR,Carolina wren,Asheville,Buncombe,D24,6/17/22
+2022-0596,6/16/22,NRWS,Northern rough-winged swallow,Asheville,Buncombe,E24,6/17/22
+2022-0597,6/16/22,AMCR,American crow,Asheville,Buncombe,E,6/29/22
+2022-0598,6/16/22,SYFL,Eastern cottontail,Candler,Buncombe,EOA,6/16/22
+2022-0599,6/16/22,EAPH,Eastern phoebe,Vilas,Watauga,R,7/27/22
+2022-0600,6/16/22,ODVI,White-tailed deer,Seven Devils,NA,T,6/19/22
+2022-0601,6/17/22,EASO,Eastern screech owl,Boomer,Wilkes,E24,6/17/22
+2022-0602,6/17/22,REVI,Red-eyed Vireo,Creston,Ashe,D,6/18/22
+2022-0603,6/17/22,ODVI,White-tailed deer,Boone,Watauga,D,6/20/22
+2022-0604,6/18/22,ODVI,White-tailed deer,Iron Station,Lincoln,D24,6/19/22
+2022-0605,6/18/22,RTHU,Ruby-throated hummingbird,,NA,D,6/22/22
+2022-0606,6/18/22,AMRO,American robin,Jefferson,Ashe,D,6/26/22
+2022-0607,6/18/22,AMRO,American robin,Jefferson,Ashe,R,7/13/22
+2022-0608,6/18/22,EABL,Eastern bluebird,Morganton,NA,R,7/27/22
+2022-0609,6/18/22,THSI,Common Garter Snake,Bakersville,Mitchell,R,6/26/22
+2022-0610,6/18/22,HAWO,Hairy woodpecker,Seven Devils,NA,R,6/26/22
+2022-0611,6/18/22,BARS,Barn swallow,,NA,D24,6/19/22
+2022-0612,6/18/22,BARS,Barn swallow,,NA,R,7/15/22
+2022-0613,6/18/22,BARS,Barn swallow,,NA,R,7/15/22
+2022-0614,6/18/22,BARS,Barn swallow,Wilkesboro,Wilkes,R,7/15/22
+2022-0615,6/19/22,TECA,Eastern box turtle,Old Fort,McDowell,R,7/16/22
+2022-0616,6/19/22,SOSP,Song sparrow,Boone,Watauga,D24,6/20/22
+2022-0617,6/20/22,EAPH,Eastern phoebe,Newland,Avery,E,6/27/22
+2022-0618,6/20/22,SYFL,Eastern cottontail,Boone,Watauga,E,6/23/22
+2022-0619,6/20/22,CAWR,Carolina wren,Sugar Grove,Watauga,R,7/27/22
+2022-0620,6/22/22,BLJA,Blue jay,Banner Elk,Avery,D,6/24/22
+2022-0621,6/22/22,DIVI,Virginia opossum,Morganton,Burke,R,6/27/22
+2022-0622,6/22/22,AMRO,American robin,Crossnore,Avery,R,7/8/22
+2022-0623,6/22/22,FICR,Fish crow,,NA,R,9/1/22
+2022-0624,6/22/22,EABL,Eastern bluebird,Weaverville,Buncombe,R,7/27/22
+2022-0625,6/22/22,EABL,Eastern bluebird,Weaverville,Buncombe,R,7/27/22
+2022-0626,6/22/22,EABL,Eastern bluebird,Weaverville,Buncombe,R,7/27/22
+2022-0627,6/22/22,RTHU,Ruby-throated hummingbird,Jefferson,Ashe,R,6/23/22
+2022-0628,6/23/22,SYFL,Eastern cottontail,Marion,McDowell,E,6/25/22
+2022-0629,6/23/22,AMRO,American robin,Banner Elk,Avery,D,6/25/22
+2022-0630,6/23/22,ODVI,White-tailed deer,Lenior,NA,T,6/24/22
+2022-0631,6/23/22,PUMA,Purple martin,Conover,Catawba,R,7/15/22
+2022-0632,6/23/22,CHWW,Chuck-wills-widow,Conover,Catawba,R,7/11/22
+2022-0633,6/23/22,ODVI,White-tailed deer,Boone,Watauga,T,6/24/22
+2022-0634,6/23/22,BRTH,Brown thrasher,Fleetwood,Ashe,D24,6/24/22
+2022-0635,6/23/22,SYFL,Eastern cottontail,Burnsville,Yancey,E,6/25/22
+2022-0636,6/23/22,NOCA,Northern cardinal,,NA,D24,6/24/22
+2022-0637,6/23/22,ODVI,White-tailed deer,,NA,E24,6/23/22
+2022-0638,6/23/22,AMCR,American crow,Marion,McDowell,E,7/3/22
+2022-0639,6/24/22,BLJA,Blue jay,Asheville,Buncombe,D24,6/24/22
+2022-0640,6/24/22,BLJA,Blue jay,,NA,D24,6/25/22
+2022-0641,6/24/22,BHCO,Brown-headed cowbird,Asheville,Buncombe,R,7/21/22
+2022-0642,6/24/22,EUST,European starling,Asheville,Buncombe,R,7/6/22
+2022-0643,6/24/22,AMCR,American crow,Bakersville,NA,D24,6/25/22
+2022-0644,6/24/22,EAPH,Eastern phoebe,,NA,R,7/27/22
+2022-0645,6/24/22,HOWR,House wren,,NA,D24,6/24/22
+2022-0646,6/24/22,HOWR,House wren,,NA,D24,6/24/22
+2022-0647,6/24/22,HOWR,House wren,,NA,D24,6/24/22
+2022-0648,6/24/22,CAWR,Carolina wren,,NA,R,7/27/22
+2022-0649,6/24/22,HOWR,House wren,,NA,DOA,6/24/22
+2022-0650,6/24/22,SYFL,Eastern cottontail,Elk Park,NA,D24,6/24/22
+2022-0651,6/24/22,AMRO,American robin,,NA,R,7/8/22
+2022-0652,6/24/22,AMRO,American robin,,NA,R,7/13/22
+2022-0653,6/24/22,HOSP,House sparrow,,NA,R,7/11/22
+2022-0654,6/24/22,NRWS,Northern rough-winged swallow,Valdese,Burke,R,8/3/22
+2022-0655,6/24/22,SOSP,Song sparrow,,NA,R,7/11/22
+2022-0656,6/24/22,SOSP,Song sparrow,,NA,R,7/11/22
+2022-0657,6/24/22,GRCA,Gray catbird,,NA,R,7/21/22
+2022-0658,6/24/22,HOSP,House sparrow,Wilkesboro,Wilkes,E24,6/25/22
+2022-0659,6/25/22,RTHU,Ruby-throated hummingbird,Beech Mt,NA,E,7/26/22
+2022-0660,6/25/22,ODVI,White-tailed deer,Boone,Watauga,E24,6/25/22
+2022-0661,6/25/22,BARS,Barn swallow,,NA,DOA,6/25/22
+2022-0662,6/25/22,BARS,Barn swallow,Granite Falls,Caldwell,R,8/3/22
+2022-0663,6/25/22,BARS,Barn swallow,Granite Falls,Caldwell,R,8/3/22
+2022-0664,6/26/22,HOSP,House sparrow,Boone,Watauga,D24,6/26/22
+2022-0665,6/26/22,ODVI,White-tailed deer,Sugar Grove,Watauga,D24,6/26/22
+2022-0666,6/26/22,RSHA,Red-shouldered hawk,Marion,McDowell,T,6/29/22
+2022-0667,6/27/22,TECA,Eastern box turtle,Burnsville,Yancey,Reh,0000-00-00
+2022-0668,6/27/22,EUST,European starling,Icard,Burke,E,7/2/22
+2022-0669,6/27/22,BLJA,Blue jay,Boone,Watauga,EOA,6/27/22
+2022-0670,6/27/22,MODO,Mourning dove,,NA,E,7/3/22
+2022-0671,6/27/22,HOFI,House finch,,NA,D,7/5/22
+2022-0672,6/27/22,HOFI,House finch,,NA,D,7/14/22
+2022-0673,6/27/22,HOFI,House finch,,NA,E,7/6/22
+2022-0674,6/27/22,HOFI,House finch,,NA,D,7/7/22
+2022-0675,6/27/22,HOFI,House finch,,NA,D,7/1/22
+2022-0676,6/27/22,MODO,Mourning dove,,NA,R,7/11/22
+2022-0677,6/27/22,BLJA,Blue jay,,NA,R,8/13/22
+2022-0678,6/27/22,EUST,European starling,,NA,R,7/18/22
+2022-0679,6/27/22,EUST,European starling,,NA,R,7/18/22
+2022-0680,6/28/22,HOSP,House sparrow,Boone,Watauga,D24,6/28/22
+2022-0681,6/28/22,RODO,Rock dove,Fleetwood,Ashe,R,7/7/22
+2022-0682,6/28/22,ODVI,White-tailed deer,Lankford,NA,T,6/29/22
+2022-0683,6/28/22,BLJA,Blue jay,,NA,R,8/13/22
+2022-0684,6/29/22,SCCA,Eastern gray squirrel,Collettsville,Caldwell,D,6/30/22
+2022-0685,6/29/22,EATO,Eastern towhee,Boone,Watauga,R,8/3/22
+2022-0686,6/29/22,SYFL,Eastern cottontail,Banner Elk,Avery,D,7/1/22
+2022-0687,6/29/22,SYFL,Eastern cottontail,Newland,Avery,D,7/3/22
+2022-0688,6/29/22,CAWR,Carolina wren,Vilas,Watauga,D,6/30/22
+2022-0689,6/30/22,CAWR,Carolina wren,Zionville,Watauga,D,7/2/22
+2022-0690,6/30/22,HOSP,House sparrow,Burnsville,Yancey,D24,6/30/22
+2022-0691,6/30/22,BGGN,Blue-Gray Gnatcatcher,Raleigh,Wake,D24,7/1/22
+2022-0692,6/30/22,SYFL,Eastern cottontail,Mooresville,Iredell,R,7/15/22
+2022-0693,7/1/22,WITU,Wild turkey,Sugar Grove,Watauga,D,7/4/22
+2022-0694,7/2/22,CHSW,Chimney swift,Statesville,Iredell,R,7/15/22
+2022-0695,7/2/22,CHSW,Chimney swift,Statesville,Iredell,R,7/15/22
+2022-0696,7/2/22,SYFL,Eastern cottontail,wilkesboro,NA,EOA,7/2/22
+2022-0697,7/2/22,ODVI,White-tailed deer,Boone,Watauga,E24,7/2/22
+2022-0698,7/5/22,HOSP,House sparrow,Jefferson Asheville,NA,D,7/7/22
+2022-0699,7/5/22,AMCR,American crow,Banner Elk,Avery,D24,7/5/22
+2022-0700,7/5/22,SOSP,Song sparrow,Banner Elk,Avery,R,8/3/22
+2022-0701,7/5/22,SCCA,Eastern gray squirrel,,Avery,R,7/16/22
+2022-0702,7/6/22,BAWW,Black and white warbler,Lenoir,Caldwell,R,8/7/22
+2022-0703,7/6/22,ODVI,White-tailed deer,Boone,Watauga,T,7/6/22
+2022-0704,7/6/22,CHSW,Chimney swift,Banner Elk,Avery,E,7/17/22
+2022-0705,7/6/22,DIVI,Virginia opossum,,NA,D,7/8/22
+2022-0706,7/6/22,DIVI,Virginia opossum,,NA,D,7/7/22
+2022-0707,7/6/22,DIVI,Virginia opossum,,NA,R,8/28/22
+2022-0708,7/6/22,NOMO,Northern mockingbird,,NA,R,7/21/22
+2022-0709,7/6/22,NOMO,Northern mockingbird,,NA,R,7/21/22
+2022-0710,7/7/22,SYFL,Eastern cottontail,Banner Elk,Avery,D24,7/8/22
+2022-0711,7/7/22,DIVI,Virginia opossum,Banner Elk,Avery,E24,7/7/22
+2022-0712,7/7/22,DIVI,Virginia opossum,Banner Elk,Avery,E24,7/7/22
+2022-0713,7/7/22,DIVI,Virginia opossum,Banner Elk,Avery,E24,7/7/22
+2022-0714,7/7/22,DIVI,Virginia opossum,Banner Elk,Avery,E24,7/7/22
+2022-0715,7/7/22,DIVI,Virginia opossum,Banner Elk,Avery,E24,7/7/22
+2022-0716,7/7/22,DIVI,Virginia opossum,Banner Elk,Avery,E24,7/7/22
+2022-0717,7/7/22,DIVI,Virginia opossum,Banner Elk,Avery,E24,7/7/22
+2022-0718,7/7/22,AMRO,American robin,banner elk,Avery,D24,7/8/22
+2022-0719,7/7/22,ODVI,White-tailed deer,Crossnore,Avery,D24,7/7/22
+2022-0720,7/7/22,DIVI,Virginia opossum,,NA,DOA,7/7/22
+2022-0721,7/7/22,ODVI,White-tailed deer,apen,NA,E,7/9/22
+2022-0722,7/7/22,AMRO,American robin,Sugar Grove,Watauga,EOA,7/7/22
+2022-0723,7/7/22,AMRO,American robin,Valdese,Burke,D24,7/7/22
+2022-0724,7/7/22,BRTH,Brown thrasher,Valdese,Burke,E,7/14/22
+2022-0725,7/7/22,BRTH,Brown thrasher,Valdese,Burke,E,7/16/22
+2022-0726,7/7/22,SOSP,Song sparrow,Sugar Grove,Watauga,D,7/9/22
+2022-0727,7/8/22,CHSW,Chimney swift,Greensboro,Guilford,R,7/30/22
+2022-0728,7/8/22,CHSW,Chimney swift,Greensboro,Guilford,R,7/21/22
+2022-0729,7/8/22,CHSW,Chimney swift,Greensboro,Guilford,R,7/30/22
+2022-0730,7/8/22,CHSW,Chimney swift,Greensboro,Guilford,R,7/30/22
+2022-0731,7/8/22,CHSW,Chimney swift,Greensboro,Guilford,R,7/21/22
+2022-0732,7/8/22,BARS,Barn swallow,Winston-Salem,NA,R,8/3/22
+2022-0733,7/8/22,BARS,Barn swallow,Winston-Salem,NA,R,8/3/22
+2022-0734,7/8/22,CAWR,Carolina wren,Wilkesboro,Wilkes,R,8/1/22
+2022-0735,7/8/22,CAWR,Carolina wren,,NA,D24,7/8/22
+2022-0736,7/8/22,BRTH,Brown thrasher,,NA,DOA,7/8/22
+2022-0737,7/8/22,GBHE,Great blue heron,Boone,Watauga,E24,7/8/22
+2022-0738,7/8/22,CEWA,Cedar waxwing,Asheville,Buncombe,E24,7/8/22
+2022-0739,7/8/22,CEWA,Cedar waxwing,Asheville,Buncombe,R,9/20/22
+2022-0740,7/8/22,AMRO,American robin,Asheville,Buncombe,R,7/18/22
+2022-0741,7/8/22,AMRO,American robin,Asheville,Buncombe,R,7/18/22
+2022-0742,7/8/22,CHSW,Chimney swift,Asheville,Buncombe,R,8/4/22
+2022-0743,7/8/22,CHSW,Chimney swift,Asheville,Buncombe,R,8/3/22
+2022-0744,7/8/22,CHSW,Chimney swift,Asheville,Buncombe,D,8/1/22
+2022-0745,7/8/22,CHSW,Chimney swift,,NA,R,8/3/22
+2022-0746,7/8/22,CHSW,Chimney swift,Asheville,Buncombe,R,7/30/22
+2022-0747,7/8/22,CHSW,Chimney swift,Asheville,Buncombe,R,7/21/22
+2022-0748,7/8/22,CHSW,Chimney swift,Asheville,Buncombe,R,7/21/22
+2022-0749,7/8/22,CHSW,Chimney swift,Asheville,Buncombe,R,8/4/22
+2022-0750,7/8/22,AMRO,American robin,Asheville,Buncombe,R,7/18/22
+2022-0751,7/8/22,EATO,Eastern towhee,Asheville,Buncombe,D,7/27/22
+2022-0752,7/8/22,BLJA,Blue jay,Asheville,Buncombe,R,8/13/22
+2022-0753,7/8/22,CHSW,Chimney swift,Asheville,Buncombe,R,8/26/22
+2022-0754,7/8/22,CHSW,Chimney swift,Asheville,Buncombe,DOA,7/8/22
+2022-0755,7/8/22,CAWR,Carolina wren,Asheville,Buncombe,R,8/6/22
+2022-0756,7/8/22,CAWR,Carolina wren,Asheville,Buncombe,R,8/1/22
+2022-0757,7/8/22,NOCA,Northern cardinal,Asheville,Buncombe,D,8/8/22
+2022-0758,7/8/22,NOCA,Northern cardinal,Asheville,Buncombe,R,8/23/22
+2022-0759,7/8/22,NOCA,Northern cardinal,Asheville,Buncombe,R,8/23/22
+2022-0760,7/8/22,MODO,Mourning dove,Jefferson,Ashe,E24,7/8/22
+2022-0761,7/8/22,MODO,Mourning dove,unknown,unknown,D,8/30/22
+2022-0762,7/8/22,CHSW,Chimney swift,winston-salem,NA,R,7/30/22
+2022-0763,7/8/22,ODVI,White-tailed deer,North Wilksboro,NA,T,7/9/22
+2022-0764,7/8/22,SYFL,Eastern cottontail,Watauga,NA,R,7/13/22
+2022-0765,7/8/22,CHSW,Chimney swift,Spruce Pine,Mitchell,R,7/30/22
+2022-0766,7/8/22,CHSW,Chimney swift,Spruce Pine,Mitchell,R,7/30/22
+2022-0767,7/9/22,CEWA,Cedar waxwing,Bakersville,Mitchell,R,10/14/22
+2022-0768,7/9/22,MODO,Mourning dove,Valley Crucis,Watauga,D24,7/9/22
+2022-0769,7/9/22,EABL,Eastern bluebird,,NA,DOA,7/9/22
+2022-0770,7/9/22,EABL,Eastern bluebird,,NA,DOA,7/9/22
+2022-0771,7/9/22,ODVI,White-tailed deer,,NA,EOA,7/9/22
+2022-0772,7/9/22,COYE,Common yellowthroat,,NA,D24,7/9/22
+2022-0773,7/10/22,BRTH,Brown thrasher,Brevard,Transylvania,R,7/21/22
+2022-0774,7/11/22,SYFL,Eastern cottontail,Vilas,Watauga,D24,7/11/22
+2022-0775,7/11/22,INBU,Indigo bunting,Boone,Watauga,D24,7/12/22
+2022-0776,7/10/22,RTHU,Ruby-throated hummingbird,Banner Elk,Avery,D24,7/10/22
+2022-0777,5/23/22,DIVI,Virginia opossum,,NA,R,8/1/22
+2022-0778,5/23/22,DIVI,Virginia opossum,,NA,R,8/1/22
+2022-0779,5/23/22,DIVI,Virginia opossum,,NA,R,8/1/22
+2022-0780,5/23/22,DIVI,Virginia opossum,,NA,R,8/1/22
+2022-0781,5/23/22,DIVI,Virginia opossum,,NA,R,8/1/22
+2022-0782,7/11/22,AMRO,American robin,Banner Elk,Avery,D,7/11/22
+2022-0783,7/11/22,DIVI,Virginia opossum,Marion,McDowell,DOA,7/11/22
+2022-0784,7/11/22,ODVI,White-tailed deer,Blowing Rock,Watauga,T,7/13/22
+2022-0785,7/11/22,RSHA,Red-shouldered hawk,Linville,Avery,T,8/15/22
+2022-0786,7/11/22,MODO,Mourning dove,Burnsville,Yancey,E,2/8/23
+2022-0787,7/11/22,HOFI,House finch,,NA,D,7/13/22
+2022-0788,7/11/22,TUTI,Tufted titmouse,,NA,D24,7/12/22
+2022-0789,7/11/22,CHSW,Chimney swift,,NA,R,7/30/22
+2022-0790,7/11/22,CHSW,Chimney swift,,NA,R,8/3/22
+2022-0791,7/11/22,CHSW,Chimney swift,,NA,R,7/30/22
+2022-0792,7/11/22,DEJU,Dark Eyed Junco,Banner Elk,Avery,R,8/7/22
+2022-0793,7/12/22,TECA,Eastern box turtle,Lenoir,Caldwell,R,8/4/22
+2022-0794,7/12/22,HOFI,House finch,Asheville,Buncombe,E,8/15/22
+2022-0795,7/12/22,BWHA,Broad-winged hawk,Canton,Haywood,D,7/13/22
+2022-0796,7/12/22,BRTH,Brown thrasher,Brevard,Transylvania,D24,7/12/22
+2022-0797,7/12/22,HOFI,House finch,Asheville,Buncombe,EOA,7/12/22
+2022-0798,7/12/22,GBHE,Great blue heron,Fairview,Buncombe,D24,7/13/22
+2022-0799,7/12/22,TECA,Eastern box turtle,,NA,E,7/14/22
+2022-0800,7/12/22,RTHA,Red-tailed hawk,Hays,Wilkes,R,9/19/22
+2022-0801,7/12/22,MODO,Mourning dove,Sugar Grove,Watauga,R,8/23/22
+2022-0802,7/13/22,RODO,Rock dove,Morganton,Burke,R,12/1/22
+2022-0803,7/13/22,ODVI,White-tailed deer,,NA,DOA,7/13/22
+2022-0804,7/13/22,GBHE,Great blue heron,Creston,Ashe,D,7/15/22
+2022-0805,7/13/22,CEWA,Cedar waxwing,Newland,Avery,R,9/20/22
+2022-0806,7/14/22,BARS,Barn swallow,,NA,R,8/3/22
+2022-0807,7/14/22,SYFL,Eastern cottontail,Millers creek,NA,D24,7/14/22
+2022-0808,7/14/22,AMRO,American robin,Newland,Avery,R,8/4/22
+2022-0809,7/14/22,ELOB,Rat snake,Banner Elk,Avery,DOA,7/14/22
+2022-0810,7/14/22,MODO,Mourning dove,Boone,Watauga,D,7/16/22
+2022-0811,7/15/22,EAPH,Eastern phoebe,Roaring Creek,NA,D24,7/16/22
+2022-0812,7/15/22,RBWO,Red-bellied woodpecker,Asheville,Buncombe,R,8/2/22
+2022-0813,7/15/22,NOCA,Northern cardinal,Banner Elk,Avery,D24,7/15/22
+2022-0814,7/15/22,TECA,Eastern box turtle,Marion,McDowell,D24,7/16/22
+2022-0815,7/15/22,HOWR,House wren,,NA,R,8/1/22
+2022-0816,7/15/22,HOWR,House wren,,NA,R,8/1/22
+2022-0817,7/15/22,HOWR,House wren,,NA,R,8/1/22
+2022-0818,7/15/22,HOWR,House wren,,NA,D24,7/16/22
+2022-0819,7/15/22,HOWR,House wren,,NA,R,8/1/22
+2022-0820,7/15/22,HOWR,House wren,,NA,R,8/1/22
+2022-0821,7/16/22,MODO,Mourning dove,Boone,Watauga,D24,7/16/22
+2022-0822,7/16/22,DIVI,Virginia opossum,Boone,Watauga,D24,7/16/22
+2022-0823,7/16/22,ODVI,White-tailed deer,Boone,Watauga,D24,7/17/22
+2022-0824,7/16/22,AMCR,American crow,Waynesville,Haywood,E,9/21/22
+2022-0825,7/16/22,COHA,Cooper's Hawk,hendersonville,Haywood,R,8/26/22
+2022-0826,7/16/22,MALL,Mallard,,NA,E24,7/16/22
+2022-0827,7/16/22,SCCA,Eastern gray squirrel,Boone,Watauga,D,7/25/22
+2022-0828,7/17/22,RODO,Rock dove,,NA,R,10/13/22
+2022-0829,7/17/22,BLJA,Blue jay,Ennice,Alleghany,R,8/13/22
+2022-0830,7/17/22,ODVI,White-tailed deer,Banner Elk,Avery,EOA,7/17/22
+2022-0831,7/18/22,AMRO,American robin,Banner Elk,Avery,R,8/4/22
+2022-0832,7/18/22,GBHE,Great blue heron,West Jefferson,Ashe,E24,7/19/22
+2022-0833,7/19/22,SYFL,Eastern cottontail,North Wilseboro,NA,R,8/2/22
+2022-0834,7/19/22,AMCR,American crow,Asheville,Buncombe,E,7/21/22
+2022-0835,7/19/22,BWHA,Broad-winged hawk,Landrum,Greenville,R,8/4/22
+2022-0836,7/19/22,HOSP,House sparrow,Asheville,Buncombe,R,8/3/22
+2022-0837,7/19/22,SCJU,Slate Colored Junco,Maggie Valley,Haywood,R,8/3/22
+2022-0838,7/19/22,BARS,Barn swallow,Tryon,Polk,E24,7/19/22
+2022-0839,7/19/22,MODO,Mourning dove,,NA,D,7/20/22
+2022-0840,7/19/22,MODO,Mourning dove,,NA,D,7/23/22
+2022-0841,7/19/22,TECA,Eastern box turtle,Elk Park,Avery,EOA,7/19/22
+2022-0842,7/19/22,AMRO,American robin,,NA,E,7/21/22
+2022-0843,7/20/22,DIVI,Virginia opossum,Marion,McDowell,DOA,7/20/22
+2022-0844,7/20/22,DIVI,Virginia opossum,Marion,McDowell,DOA,7/20/22
+2022-0845,7/20/22,DIVI,Virginia opossum,Marion,McDowell,DOA,7/20/22
+2022-0846,7/20/22,DIVI,Virginia opossum,Marion,McDowell,PR,0000-00-00
+2022-0847,7/20/22,DIVI,Virginia opossum,Marion,McDowell,R,9/12/22
+2022-0848,7/20/22,DIVI,Virginia opossum,Marion,McDowell,R,9/12/22
+2022-0849,7/20/22,DIVI,Virginia opossum,Marion,McDowell,R,8/23/22
+2022-0850,7/20/22,DIVI,Virginia opossum,Marion,McDowell,R,8/23/22
+2022-0851,7/20/22,DIVI,Virginia opossum,Marion,McDowell,R,9/12/22
+2022-0852,7/20/22,DIVI,Virginia opossum,Marion,McDowell,T,2/10/23
+2022-0853,7/20/22,DIVI,Virginia opossum,Marion,McDowell,R,8/23/22
+2022-0854,7/20/22,DIVI,Virginia opossum,Marion,McDowell,R,9/12/22
+2022-0855,7/20/22,DIVI,Virginia opossum,Marion,McDowell,T,3/16/23
+2022-0856,7/20/22,DIVI,Virginia opossum,Marion,McDowell,R,9/12/22
+2022-0857,7/20/22,CHSW,Chimney swift,Rutherfordton,Rutherford,D24,7/21/22
+2022-0858,7/20/22,DEJU,Dark Eyed Junco,,NA,D24,7/21/22
+2022-0859,7/20/22,PELE,White-footed mouse,Boone,Watauga,D,7/22/22
+2022-0860,7/20/22,SYFL,Eastern cottontail,Prospect,NA,R,8/5/22
+2022-0861,7/21/22,SOSP,Song sparrow,Banner Elk,NA,R,9/5/22
+2022-0862,7/22/22,SYFL,Eastern cottontail,Bakersville,Mitchell,R,8/2/22
+2022-0863,7/22/22,COHA,Cooper's Hawk,,NA,E,8/15/22
+2022-0864,7/22/22,NOCA,Northern cardinal,,NA,R,8/23/22
+2022-0865,7/22/22,RTHA,Red-tailed hawk,,NA,E,7/25/22
+2022-0866,7/22/22,AMCR,American crow,Asheville,Buncombe,EOA,7/22/22
+2022-0867,7/22/22,BWHA,Broad-winged hawk,Spruce Pine,Mitchell,T,8/15/22
+2022-0868,7/22/22,NOMO,Northern mockingbird,,NA,R,8/19/22
+2022-0869,7/22/22,NOMO,Northern mockingbird,,NA,R,8/19/22
+2022-0870,7/22/22,AMRO,American robin,Asheville,Buncombe,R,8/4/22
+2022-0871,7/22/22,AMRO,American robin,,NA,R,8/4/22
+2022-0872,7/22/22,RBWO,Red-bellied woodpecker,,NA,R,8/26/22
+2022-0873,7/22/22,ELOB,Rat snake,,NA,EOA,7/22/22
+2022-0874,7/22/22,ODVI,White-tailed deer,Banner Elk,Avery,EOA,7/22/22
+2022-0875,7/23/22,ODVI,White-tailed deer,Boone,Watauga,E,7/26/22
+2022-0876,7/24/22,BOQU,Bobwhite Quail,Boone,Watauga,T,2/22/23
+2022-0877,7/24/22,TECA,Eastern box turtle,Marion,McDowell,R,8/15/22
+2022-0878,7/25/22,AMRO,American robin,Bakersville,Mitchell,R,8/18/22
+2022-0879,7/25/22,SYFL,Eastern cottontail,Boone,Watauga,R,8/3/22
+2022-0880,7/25/22,SYFL,Eastern cottontail,,NA,D,7/28/22
+2022-0881,7/25/22,NOMO,Northern mockingbird,Bakersville,Mitchell,R,8/19/22
+2022-0882,7/25/22,DIVI,Virginia opossum,Bakersville,Mitchell,R,9/12/22
+2022-0883,7/25/22,DIVI,Virginia opossum,Bakersville,Mitchell,R,9/12/22
+2022-0884,7/25/22,DIVI,Virginia opossum,,NA,DOA,7/25/22
+2022-0885,7/25/22,DIVI,Virginia opossum,,NA,DOA,7/25/22
+2022-0886,7/25/22,HOFI,House finch,Boone,Watauga,R,9/5/22
+2022-0887,7/26/22,TRSCS,Yellow Bellied Slider,,NA,R,9/1/22
+2022-0888,7/26/22,GHOW,Great horned owl,Boone,Watauga,R,8/3/22
+2022-0889,7/26/22,HOWA,Hooded Warbler,Blowing Rock,Watauga,D24,7/27/22
+2022-0890,7/26/22,HOSP,House sparrow,Miller Creek,Wilkes,E,2/13/23
+2022-0891,7/26/22,DIVI,Virginia opossum,Marion,McDowell,R,9/12/22
+2022-0892,7/26/22,DIVI,Virginia opossum,Marion,McDowell,R,8/23/22
+2022-0893,7/26/22,SYFL,Eastern cottontail,Zionville,Watauga,D24,7/27/22
+2022-0894,7/27/22,NOCA,Northern cardinal,Wilkesboro,Wilkes,D,7/28/22
+2022-0895,7/27/22,SYFL,Eastern cottontail,Bakersville,Mitchell,D24,7/28/22
+2022-0896,7/27/22,DCCO,Double-crested cormorant,Banner Elk,Avery,D,8/5/22
+2022-0897,7/27/22,SCCA,Eastern gray squirrel,Wilkesboro,Wilkes,D,8/2/22
+2022-0898,7/28/22,HOSP,House sparrow,,NA,R,9/1/22
+2022-0899,7/28/22,NOPA,Northern Parula,Deep Gap,Watauga,D,7/29/22
+2022-0900,7/28/22,DIVI,Virginia opossum,,Mitchell,R,9/12/22
+2022-0901,7/28/22,DIVI,Virginia opossum,,Mitchell,R,9/12/22
+2022-0902,7/28/22,SYFL,Eastern cottontail,West Jefferson,Ashe,R,8/2/22
+2022-0903,7/28/22,DEJU,Dark Eyed Junco,Boone,Watauga,D24,7/29/22
+2022-0904,7/28/22,AMCR,American crow,Banner Elk,Avery,D24,7/28/22
+2022-0905,7/29/22,CHSP,Chipping sparrow,Lewisville,NA,R,9/5/22
+2022-0906,7/29/22,RTHU,Ruby-throated hummingbird,Green Mountain,Yancey,R,8/26/22
+2022-0907,7/29/22,MODO,Mourning dove,Statesville,Iredell,D,10/16/22
+2022-0908,7/30/22,EATO,Eastern towhee,,NA,E,7/31/22
+2022-0909,7/30/22,DIVI,Virginia opossum,Nebo,McDowell,E24,7/30/22
+2022-0910,7/30/22,DIVI,Virginia opossum,,NA,E24,7/30/22
+2022-0911,7/30/22,DIVI,Virginia opossum,,NA,E24,7/30/22
+2022-0912,7/30/22,DIVI,Virginia opossum,,NA,E24,7/30/22
+2022-0913,7/30/22,DIVI,Virginia opossum,,NA,E24,7/30/22
+2022-0914,7/30/22,DIVI,Virginia opossum,,NA,E24,7/30/22
+2022-0915,7/30/22,DIVI,Virginia opossum,,NA,E24,7/30/22
+2022-0916,7/30/22,DIVI,Virginia opossum,,NA,E24,7/30/22
+2022-0917,7/30/22,DIVI,Virginia opossum,,NA,E24,7/30/22
+2022-0918,7/30/22,CHSW,Chimney swift,Asheville,Buncombe,R,8/26/22
+2022-0919,7/30/22,NOCA,Northern cardinal,,NA,D,10/29/22
+2022-0920,7/30/22,NOCA,Northern cardinal,,NA,R,8/23/22
+2022-0921,7/30/22,DIVI,Virginia opossum,Lenoir,Caldwell,R,9/12/22
+2022-0922,7/30/22,DIVI,Virginia opossum,Lenoir,Caldwell,R,9/12/22
+2022-0923,7/30/22,ODVI,White-tailed deer,Banner Elk,Avery,EOA,7/30/22
+2022-0924,7/30/22,RTHU,Ruby-throated hummingbird,Zionville,Watauga,R,8/5/22
+2022-0925,7/31/22,DEJU,Dark Eyed Junco,Linville,Avery,E,8/4/22
+2022-0926,7/31/22,SWTH,Swainson's thrush,Newland,Avery,D24,8/1/22
+2022-0927,8/1/22,SCCA,Eastern gray squirrel,Sherrils Ford,NA,E24,8/1/22
+2022-0928,8/1/22,AMRO,American robin,Boone,Watauga,R,8/18/22
+2022-0929,8/2/22,MODO,Mourning dove,Lenoir,Caldwell,E,8/18/22
+2022-0930,8/2/22,TECA,Eastern box turtle,Drexel,NA,R,9/23/22
+2022-0931,8/2/22,ODVI,White-tailed deer,,NA,T,8/3/22
+2022-0932,8/3/22,NOCA,Northern cardinal,,NA,D,8/4/22
+2022-0933,8/3/22,PELE,White-footed mouse,Elk Park,Avery,EOA,8/3/22
+2022-0934,8/3/22,TAST,Eastern chipmunk,,NA,D,8/6/22
+2022-0935,8/3/22,EASO,Eastern screech owl,Hays,Wilkes,R,9/13/22
+2022-0936,8/4/22,NOMO,Northern mockingbird,Hickory,Catawba,R,9/9/22
+2022-0937,8/4/22,GCKI,Golden-crowned kinglet,Banner Elk,Avery,D,9/7/22
+2022-0938,8/4/22,RODO,Rock dove,Valdese,NA,D24,8/5/22
+2022-0939,8/5/22,TECA,Eastern box turtle,Purlear,Wilkes,D,8/20/22
+2022-0940,8/5/22,PIWA,Pine Warbler,Boone,Watauga,D24,8/5/22
+2022-0941,8/5/22,SOSP,Song sparrow,Asheville,Buncombe,E,8/29/22
+2022-0942,8/6/22,RTHU,Ruby-throated hummingbird,Boone,Watauga,D24,8/7/22
+2022-0943,8/6/22,RTHU,Ruby-throated hummingbird,Claremont,Catawba,D,9/27/22
+2022-0944,8/8/22,SCCA,Eastern gray squirrel,Lenior,NA,E24,8/8/22
+2022-0945,8/8/22,CAGO,Canada goose,,NA,R,8/25/22
+2022-0946,8/8/22,PELE,White-footed mouse,Blowing Rock,Watauga,R,8/11/22
+2022-0947,8/8/22,COHA,Cooper's Hawk,West Jefferson,Ashe,R,8/26/22
+2022-0948,8/8/22,EASO,Eastern screech owl,Sparta,Alleghany,R,9/19/22
+2022-0949,8/9/22,SCJU,Slate Colored Junco,seven devils,Avery,R,8/9/22
+2022-0950,8/9/22,SCCA,Eastern gray squirrel,Jefferson,Ashe,D24,8/10/22
+2022-0951,8/9/22,HOSP,House sparrow,Elkin,Surry,R,9/1/22
+2022-0952,8/9/22,HOSP,House sparrow,Elkin,Surry,R,9/1/22
+2022-0953,8/9/22,ELOB,Rat snake,,NA,D24,8/10/22
+2022-0954,8/9/22,DIVI,Virginia opossum,Sparta,Alleghany,D,8/13/22
+2022-0955,8/10/22,MALL,Mallard,Weaverville,Buncombe,E,8/15/22
+2022-0956,8/11/22,CLSW,Cliff Swallow,,Buncombe,T,10/14/22
+2022-0957,8/11/22,EABL,Eastern bluebird,,NA,R,9/15/22
+2022-0958,8/11/22,EABL,Eastern bluebird,,NA,R,9/15/22
+2022-0959,8/11/22,EABL,Eastern bluebird,,NA,R,9/15/22
+2022-0960,8/11/22,EABL,Eastern bluebird,,NA,R,9/15/22
+2022-0961,8/11/22,ODVI,White-tailed deer,Newland,Avery,D24,8/12/22
+2022-0962,8/11/22,SCCA,Eastern gray squirrel,Lenoir,Caldwell,E,9/28/22
+2022-0963,8/12/22,SYFL,Eastern cottontail,Banner Elk,Avery,E,9/14/22
+2022-0964,8/12/22,SYFL,Eastern cottontail,Beech Mountain,NA,R,8/27/22
+2022-0965,8/13/22,RODO,Rock dove,,NA,DOA,8/13/22
+2022-0966,8/14/22,SCCA,Eastern gray squirrel,Banner Elk,Avery,R,10/6/22
+2022-0967,8/14/22,DIVI,Virginia opossum,Boone,Watauga,R,9/12/22
+2022-0968,8/14/22,DIVI,Virginia opossum,,NA,DOA,8/14/22
+2022-0969,8/14/22,AMGO,American goldfinch,Boone,Watauga,R,8/31/22
+2022-0970,8/15/22,SYFL,Eastern cottontail,Boone,Watauga,D24,8/15/22
+2022-0971,8/15/22,SYFL,Eastern cottontail,Wilksboro,NA,D24,8/16/22
+2022-0972,8/16/22,GLVO,Southern flying squirrel,Morganton,Burke,PR,0000-00-00
+2022-0973,8/16/22,MUDU,Muscovy duck,Banner Elk,Avery,R,8/26/22
+2022-0974,8/16/22,MUMU,House mouse,Banner Elk,Avery,DOA,8/16/22
+2022-0975,8/16/22,MUMU,House mouse,Banner Elk,Avery,R,8/27/22
+2022-0976,8/16/22,HOFI,House finch,Spruce Pine,Mitchell,DOA,8/16/22
+2022-0977,8/17/22,EABL,Eastern bluebird,,NA,EOA,8/17/22
+2022-0978,8/17/22,RTHA,Red-tailed hawk,Hudson,Caldwell,R,12/29/22
+2022-0979,8/18/22,OVEN,Ovenbird,Boone,Watauga,D24,8/18/22
+2022-0980,8/18/22,HOSP,House sparrow,,NA,D24,8/18/22
+2022-0981,8/18/22,AMGO,American goldfinch,,NA,R,9/21/22
+2022-0982,8/18/22,AMGO,American goldfinch,,NA,R,9/21/22
+2022-0983,8/18/22,AMGO,American goldfinch,,NA,R,9/21/22
+2022-0984,8/18/22,AMGO,American goldfinch,,NA,R,9/21/22
+2022-0985,8/18/22,AMGO,American goldfinch,,NA,R,9/21/22
+2022-0986,8/18/22,MAMO,Groundhog,Blowing Rock,Watauga,D24,8/18/22
+2022-0987,8/19/22,COHA,Cooper's Hawk,Sapphire,Transylvania,D,8/21/22
+2022-0988,8/19/22,COHA,Cooper's Hawk,,NA,D24,8/20/22
+2022-0989,8/19/22,DIVI,Virginia opossum,Waynesville,Haywood,E24,8/19/22
+2022-0990,8/19/22,TECA,Eastern box turtle,Bakersville,Mitchell,Reh,0000-00-00
+2022-0991,8/19/22,RTHU,Ruby-throated hummingbird,Asheville,Buncombe,D24,8/20/22
+2022-0992,8/20/22,HOFI,House finch,Elk Park,Avery,D24,8/20/22
+2022-0993,8/20/22,SYFL,Eastern cottontail,Boone,Watauga,R,8/24/22
+2022-0994,8/20/22,RTHA,Red-tailed hawk,Jefferson,Ashe,R,9/16/22
+2022-0995,8/21/22,HOSP,House sparrow,Winston Salem,Forsyth,R,10/25/22
+2022-0996,8/21/22,EWPW,Eastern Whip-poor-will,Taylorsville,Alexander,E24,8/22/22
+2022-0997,8/22/22,PRIO,Raccoon,Banner Elk,Avery,E24,8/22/22
+2022-0998,8/22/22,DIPU,Ringneck snake,Spruce Pine,Mitchell,D24,8/22/22
+2022-0999,8/22/22,MODO,Mourning dove,Rocky Point,Pender,D,8/23/22
+2022-1000,8/22/22,HOFI,House finch,Banner Elk,Avery,D24,8/23/22
+2022-1001,8/22/22,NOCA,Northern cardinal,Nebo,McDowell,D24,8/23/22
+2022-1002,8/23/22,RTHA,Red-tailed hawk,Bakersville,Mitchell,R,10/6/22
+2022-1003,8/23/22,ODVI,White-tailed deer,Boone,Watauga,DOA,8/23/22
+2022-1004,8/24/22,NOCA,Northern cardinal,Banner Elk,Avery,R,9/14/22
+2022-1005,8/24/22,MODO,Mourning dove,Newland,Avery,DOA,8/24/22
+2022-1006,8/24/22,MODO,Mourning dove,Boone,Watauga,D,8/25/22
+2022-1007,8/25/22,SCCA,Eastern gray squirrel,Hickory,Catawba,D,8/26/22
+2022-1008,8/25/22,DIVI,Virginia opossum,Zionville,Watauga,R,9/8/22
+2022-1009,8/25/22,MODO,Mourning dove,Blowing Rock,Watauga,R,10/13/22
+2022-1010,8/25/22,YBCH,Yellow Breasted Chat,Boone,Watauga,D,8/27/22
+2022-1011,8/25/22,TECA,Eastern box turtle,Spruce Pine,Mitchell,R,8/26/22
+2022-1012,8/26/22,COHA,Cooper's Hawk,Linville,Avery,R,8/26/22
+2022-1013,8/26/22,ODVI,White-tailed deer,Green Mountain,Yancey,E24,8/26/22
+2022-1014,8/26/22,TAST,Eastern chipmunk,Boone,Watauga,R,9/12/22
+2022-1015,8/26/22,SCCA,Eastern gray squirrel,Morganton,Burke,R,10/19/22
+2022-1016,8/26/22,HOFI,House finch,Hampton,NA,E,8/27/22
+2022-1017,8/27/22,CAWR,Carolina wren,Boone,Watauga,D,8/28/22
+2022-1018,8/27/22,ODVI,White-tailed deer,Banner Elk,Avery,E24,8/27/22
+2022-1019,8/27/22,TECA,Eastern box turtle,Advance,Davie,E24,8/27/22
+2022-1020,8/28/22,TECA,Eastern box turtle,Burnsville,Yancey,D,9/4/22
+2022-1021,8/29/22,GLVO,Southern flying squirrel,Banner Elk,Avery,D24,8/29/22
+2022-1022,8/29/22,RTHU,Ruby-throated hummingbird,,NA,E,9/20/22
+2022-1023,8/29/22,RTHU,Ruby-throated hummingbird,,NA,E24,8/29/22
+2022-1024,8/29/22,MODO,Mourning dove,,NA,R,10/13/22
+2022-1025,8/29/22,MODO,Mourning dove,,NA,D,1/16/23
+2022-1026,8/29/22,NOFL,Northern flicker,Banner Elk,Avery,ESC,10/16/22
+2022-1028,8/29/22,DIPU,Ringneck snake,Banner Elk,Avery,DOA,8/29/22
+2022-1029,8/29/22,PRIO,Raccoon,Banner Elk,Avery,EOA,8/29/22
+2022-1030,8/30/22,MODO,Mourning dove,,NA,D,10/16/22
+2022-1031,8/30/22,SCCA,Eastern gray squirrel,,NA,R,10/6/22
+2022-1032,8/30/22,SCCA,Eastern gray squirrel,,NA,R,10/14/22
+2022-1033,8/30/22,SCCA,Eastern gray squirrel,,NA,R,10/14/22
+2022-1034,8/30/22,SCCA,Eastern gray squirrel,,NA,R,10/14/22
+2022-1035,8/30/22,SCCA,Eastern gray squirrel,,NA,R,10/19/22
+2022-1036,8/30/22,SCCA,Eastern gray squirrel,,NA,R,10/19/22
+2022-1037,8/30/22,SCCA,Eastern gray squirrel,,NA,R,10/14/22
+2022-1038,8/30/22,SCCA,Eastern gray squirrel,,NA,R,10/14/22
+2022-1039,8/30/22,SCCA,Eastern gray squirrel,,NA,R,10/14/22
+2022-1040,8/30/22,SCCA,Eastern gray squirrel,,NA,R,10/6/22
+2022-1041,8/31/22,RTHU,Ruby-throated hummingbird,Lenoir,Caldwell,R,9/12/22
+2022-1042,8/31/22,GLVO,Southern flying squirrel,Newland,NA,R,12/2/22
+2022-1043,8/31/22,GLVO,Southern flying squirrel,Newland,NA,R,12/2/22
+2022-1044,8/31/22,GLVO,Southern flying squirrel,Newland,NA,D,9/16/22
+2022-1045,8/31/22,GLVO,Southern flying squirrel,Newland,NA,R,12/2/22
+2022-1046,8/31/22,TAHU,Red squirrel,Banner Elk,Avery,R,10/31/22
+2022-1047,8/31/22,TAHU,Red squirrel,Banner Elk,Avery,R,10/31/22
+2022-1048,8/31/22,TAHU,Red squirrel,Banner Elk,Avery,R,10/31/22
+2022-1049,9/1/22,OVEN,Ovenbird,,NA,D24,9/1/22
+2022-1050,9/1/22,CONI,Common nighthawk,Millers Creek,Wilkes,E24,9/2/22
+2022-1051,9/2/22,MODO,Mourning dove,Spruce Pine,Mitchell,D24,9/2/22
+2022-1052,9/2/22,SCCA,Eastern gray squirrel,Roan Mtn,Mitchell,R,10/6/22
+2022-1053,9/3/22,SCCA,Eastern gray squirrel,Deep Gap,Watauga,R,10/14/22
+2022-1054,9/3/22,CEWA,Cedar waxwing,Asheville,Buncombe,R,10/14/22
+2022-1055,9/3/22,RTHU,Ruby-throated hummingbird,,NA,R,10/14/22
+2022-1056,9/3/22,BRTH,Brown thrasher,Advance,Davie,DOA,9/3/22
+2022-1057,9/3/22,HOSP,House sparrow,Vilas,Watauga,D,9/9/22
+2022-1058,9/3/22,BWWA,Blue-winged Warbler,,NA,D,9/5/22
+2022-1059,9/6/22,AMCR,American crow,Marion,McDowell,R,11/26/22
+2022-1060,9/6/22,SCCA,Eastern gray squirrel,Lenoir,Caldwell,R,9/12/22
+2022-1061,9/6/22,EWPW,Eastern Whip-poor-will,Morganton,Burke,R,9/13/22
+2022-1062,9/7/22,RODO,Rock dove,Hickory,Catawba,R,10/13/22
+2022-1063,9/7/22,MUMU,House mouse,Roan Mountain,Buncombe,EOA,9/7/22
+2022-1064,9/7/22,MUMU,House mouse,Roan Mountain,NA,EOA,9/7/22
+2022-1065,9/7/22,MUMU,House mouse,Roan Mountain,NA,EOA,9/7/22
+2022-1066,9/7/22,MUMU,House mouse,Roan Mountain,NA,EOA,9/7/22
+2022-1067,9/9/22,MODO,Mourning dove,Banner Elk,Avery,R,10/13/22
+2022-1068,9/9/22,SCCA,Eastern gray squirrel,West Jefferson,Ashe,R,10/6/22
+2022-1069,9/9/22,SCCA,Eastern gray squirrel,,NA,R,10/19/22
+2022-1070,9/9/22,SYFL,Eastern cottontail,Roan MT,NA,D24,9/10/22
+2022-1071,9/10/22,SCCA,Eastern gray squirrel,Lenoir,Caldwell,D,9/14/22
+2022-1072,9/10/22,CAGO,Canada goose,,NA,EOA,9/10/22
+2022-1073,9/10/22,DIVI,Virginia opossum,,NA,DOA,9/10/22
+2022-1074,9/11/22,GLVO,Southern flying squirrel,Wilkesboro,Wilkes,R,12/2/22
+2022-1075,9/11/22,GLVO,Southern flying squirrel,Wilkesboro,Wilkes,R,12/2/22
+2022-1076,9/12/22,MODO,Mourning dove,Banner Elk,Avery,E,11/16/22
+2022-1077,9/12/22,GHOW,Great horned owl,Piney Creek,Alleghany,DOA,9/12/22
+2022-1078,9/12/22,RTHU,Ruby-throated hummingbird,Blowing Rock,Watauga,R,9/15/22
+2022-1079,9/12/22,DIPU,Ringneck snake,Newland,Avery,R,9/23/22
+2022-1080,9/12/22,SCCA,Eastern gray squirrel,Spruce Pine,Mitchell,R,10/19/22
+2022-1081,9/13/22,GHOW,Great horned owl,West Jefferson,Ashe,R,10/12/22
+2022-1082,9/14/22,RTHU,Ruby-throated hummingbird,Spruce Pine,Mitchell,D,10/5/22
+2022-1083,9/14/22,GLVO,Southern flying squirrel,Lenior,NA,R,12/2/22
+2022-1084,9/14/22,HOFI,House finch,Hickory,Catawba,DOA,9/14/22
+2022-1085,9/14/22,BRTH,Brown thrasher,Asheville,Buncombe,D24,9/14/22
+2022-1086,9/14/22,HOFI,House finch,Asheville,Buncombe,R,10/9/22
+2022-1087,9/14/22,MODO,Mourning dove,Asheville,Buncombe,R,10/13/22
+2022-1088,9/14/22,TAST,Eastern chipmunk,Blowing Rock,Watauga,D,9/17/22
+2022-1089,9/15/22,RTHA,Red-tailed hawk,Whitter,NA,R,9/23/22
+2022-1090,9/16/22,GBHE,Great blue heron,Newland,Avery,D,9/21/22
+2022-1091,9/17/22,SWTH,Swainson's thrush,Marshall,Madison,DOA,9/17/22
+2022-1092,9/17/22,SCCA,Eastern gray squirrel,Deep Gap,Watauga,R,10/19/22
+2022-1093,9/18/22,TAST,Eastern chipmunk,Newland,Avery,E,9/23/22
+2022-1094,9/19/22,MALL,Mallard,Blowing Rock,Watauga,R,10/5/22
+2022-1095,9/20/22,PELE,White-footed mouse,Newland,Avery,R,10/8/22
+2022-1096,9/21/22,SCCA,Eastern gray squirrel,Statesville,Iredell,R,10/14/22
+2022-1097,9/21/22,TECA,Eastern box turtle,Tamasee,NA,Reh,0000-00-00
+2022-1098,9/21/22,RTHU,Ruby-throated hummingbird,Asheville,Buncombe,R,9/28/22
+2022-1099,9/21/22,SWTH,Swainson's thrush,Asheville,Buncombe,R,10/7/22
+2022-1100,9/21/22,SCCA,Eastern gray squirrel,Hendersonville,Henderson,R,10/19/22
+2022-1101,9/21/22,SCCA,Eastern gray squirrel,Hendersonville,Henderson,R,10/19/22
+2022-1102,9/22/22,YBSA,Yellow-bellied sapsucker,Banner Elk,Avery,D24,9/23/22
+2022-1103,9/22/22,GLVO,Southern flying squirrel,Vilas,Watauga,R,12/2/22
+2022-1104,9/19/22,NSWO,Northern saw-whet owl,Enumclaw,Permit # MB3615,PR,0000-00-00
+2022-1105,9/23/22,RODO,Rock dove,Asheville,Buncombe,R,10/13/22
+2022-1106,9/23/22,MODO,Mourning dove,Rutherforton,NA,E,9/26/22
+2022-1107,9/23/22,SWTH,Swainson's thrush,Linville,NA,D24,9/23/22
+2022-1108,9/25/22,SWTH,Swainson's thrush,Huntersville,Mecklenburg,R,10/3/22
+2022-1109,9/27/22,SCCA,Eastern gray squirrel,Boone,Watauga,D24,9/28/22
+2022-1110,9/27/22,RODO,Rock dove,Blowing Rock,Watauga,D,10/6/22
+2022-1111,9/27/22,MAMO,Groundhog,Newland,Avery,R,10/22/22
+2022-1112,9/27/22,TAST,Eastern chipmunk,Banner Elk,Avery,R,10/11/22
+2022-1113,9/28/22,TECA,Eastern box turtle,Morganton,Burke,Reh,0000-00-00
+2022-1114,9/28/22,SCCA,Eastern gray squirrel,Morganton,Burke,R,10/19/22
+2022-1115,9/28/22,SCCA,Eastern gray squirrel,Morganton,Burke,R,10/19/22
+2022-1116,9/28/22,GHOW,Great horned owl,,NA,D,10/1/22
+2022-1117,9/28/22,HOFI,House finch,Banner Elk,Avery,R,10/12/22
+2022-1118,9/29/22,AMCR,American crow,Valdese,Burke,D,9/30/22
+2022-1119,9/29/22,RSHA,Red-shouldered hawk,Seven Devils,NA,E,11/11/22
+2022-1120,9/29/22,OVEN,Ovenbird,Boone,Watauga,D24,9/30/22
+2022-1121,9/30/22,SWTH,Swainson's thrush,Lenoir,Caldwell,E,12/19/22
+2022-1122,10/1/22,NOCA,Northern cardinal,Lenoir,Caldwell,DOA,10/1/22
+2022-1123,10/1/22,RTHA,Red-tailed hawk,,Avery,D,10/4/22
+2022-1124,10/1/22,SYFL,Eastern cottontail,Banner Elk,Avery,D24,10/2/22
+2022-1125,10/3/22,EASO,Eastern screech owl,horseshoe,NA,R,10/28/22
+2022-1126,10/3/22,GHOW,Great horned owl,Boone,Watauga,R,11/23/22
+2022-1127,10/2/22,TAHU,Red squirrel,Grandfather,NA,R,10/31/22
+2022-1128,10/3/22,CMWA,Cape May Warbler,Lenoir,Caldwell,D24,10/4/22
+2022-1129,10/3/22,LATR,Eastern milk Snake,Newland,Avery,R,10/11/22
+2022-1130,10/3/22,OVEN,Ovenbird,Linville Falls,Burke,R,10/22/22
+2022-1131,10/5/22,TAHU,Red squirrel,Banner Elk,Avery,DOA,10/5/22
+2022-1132,10/6/22,GLVO,Southern flying squirrel,Bakersville,Mitchell,E,10/8/22
+2022-1133,10/6/22,MODO,Mourning dove,Mars Hill,Madison,D,10/16/22
+2022-1134,10/7/22,TAST,Eastern chipmunk,Seven Devils,NA,D24,10/7/22
+2022-1135,10/9/22,BDOW,Barred owl,Hickory,Catawba,R,11/23/22
+2022-1136,10/11/22,RSHA,Red-shouldered hawk,Burnsville,Yancey,E,10/14/22
+2022-1137,10/13/22,TAST,Eastern chipmunk,,NA,R,10/17/22
+2022-1138,10/11/22,GBHE,Great blue heron,Taylorsville,NA,D24,10/11/22
+2022-1139,10/12/22,CAWR,Carolina wren,Newland,Avery,R,10/14/22
+2022-1140,10/12/22,SWTH,Swainson's thrush,Banner Elk,Avery,R,11/1/22
+2022-1141,10/13/22,GBHE,Great blue heron,Flat Rock,Henderson,E24,10/14/22
+2022-1142,10/13/22,BTBW,Black-Throated Blue Warbler,Spruce Pine,Mitchell,R,1/12/23
+2022-1143,10/16/22,ODVI,White-tailed deer,Banner Elk,Avery,T,10/16/22
+2022-1144,10/16/22,MODO,Mourning dove,,NA,R,11/16/22
+2022-1145,10/18/22,CAAL,Sanderling,Banner Elk,Avery,D,11/28/22
+2022-1146,10/18/22,TECA,Eastern box turtle,Lenoir,Caldwell,Reh,0000-00-00
+2022-1147,10/18/22,EAPH,Eastern phoebe,Boone,Watauga,R,10/20/22
+2022-1148,10/18/22,MODO,Mourning dove,Maggie Valley,Haywood,Reh,0000-00-00
+2022-1149,10/18/22,RODO,Rock dove,Asheville,Buncombe,R,12/1/22
+2022-1150,10/18/22,DIVI,Virginia opossum,Mountain City,NA,D,10/21/22
+2022-1151,10/18/22,YBSA,Yellow-bellied sapsucker,Hickory,Catawba,R,12/16/22
+2022-1152,10/19/22,RBGR,Rose-breasted grosbeak,Boone,Watauga,R,2/15/23
+2022-1153,10/19/22,PELE,White-footed mouse,,NA,D,10/21/22
+2022-1154,10/19/22,PELE,White-footed mouse,,NA,D,10/22/22
+2022-1155,10/20/22,RBNU,Red-breasted nuthatch,Banner Elk,Avery,R,10/21/22
+2022-1156,10/21/22,COHA,Cooper's Hawk,Banner Elk,Avery,R,12/29/22
+2022-1157,10/21/22,PELE,White-footed mouse,Bakersville,Mitchell,D24,10/21/22
+2022-1158,10/22/22,PELE,White-footed mouse,Banner Elk,Avery,R,10/23/22
+2022-1159,10/22/22,PELE,White-footed mouse,Banner Elk,Avery,R,10/23/22
+2022-1160,10/23/22,AMRO,American robin,Banner Elk,Avery,D24,10/24/22
+2022-1161,10/23/22,CAWR,Carolina wren,Banner Elk,Avery,D,10/27/22
+2022-1162,10/23/22,BDOW,Barred owl,Green Mountain,Yancey,D,10/27/22
+2022-1163,10/26/22,WITU,Wild turkey,Roan Mt,NA,E24,10/26/22
+2022-1164,10/26/22,SOSP,Song sparrow,,NA,D,12/21/22
+2022-1165,10/27/22,EASO,Eastern screech owl,Zionville,Watauga,R,11/29/22
+2022-1166,10/27/22,EASO,Eastern screech owl,Wilkesboro,Wilkes,R,11/28/22
+2022-1167,10/28/22,SOSP,Song sparrow,Hickory,Catawba,D,10/30/22
+2022-1168,10/28/22,SCCA,Eastern gray squirrel,Statesville,Iredell,T,11/4/22
+2022-1169,10/28/22,WITU,Wild turkey,Canton,Haywood,E,11/22/22
+2022-1170,10/28/22,BLJA,Blue jay,Elk Mountain,NA,D,10/30/22
+2022-1171,10/29/22,MODO,Mourning dove,,NA,R,12/1/22
+2022-1172,11/2/22,PIWA,Pine Warbler,Vilas,Watauga,R,11/4/22
+2022-1173,11/3/22,???,unknown,,NA,D24,11/3/22
+2022-1174,11/3/22,BLCA,Southern short-tailed shrew,Banner Elk,Avery,R,11/17/22
+2022-1175,11/4/22,DIVI,Virginia opossum,Asheville,Buncombe,E,12/13/22
+2022-1176,11/5/22,MAMO,Groundhog,Creston,Ashe,D24,11/6/22
+2022-1177,11/6/22,GLVO,Southern flying squirrel,Boone,Watauga,D24,11/7/22
+2022-1178,11/6/22,SCCA,Eastern gray squirrel,Banner Elk,Avery,D,11/8/22
+2022-1179,11/7/22,EASO,Eastern screech owl,Rutherfordton,Rutherford,E,11/22/22
+2022-1180,11/7/22,TUTI,Tufted titmouse,Newland,Avery,R,12/12/22
+2022-1181,11/7/22,HAWO,Hairy woodpecker,Sugar Grove,Watauga,D24,11/8/22
+2022-1182,11/8/22,RSHA,Red-shouldered hawk,Marion,McDowell,E,12/17/22
+2022-1183,11/8/22,EABL,Eastern bluebird,Asheville,Buncombe,R,12/16/22
+2022-1184,11/9/22,PELE,White-footed mouse,Boone,Watauga,R,11/16/22
+2022-1185,11/9/22,PELE,White-footed mouse,Boone,Watauga,R,11/16/22
+2022-1186,11/14/22,NOCA,Northern cardinal,Banner Elk,Avery,R,11/29/22
+2022-1187,11/16/22,BDOW,Barred owl,Butler,NA,R,2/7/23
+2022-1188,11/17/22,MODO,Mourning dove,Granite Falls,NA,R,12/1/22
+2022-1189,11/17/22,LATR,Eastern milk Snake,Elk Park,Avery,R,11/26/22
+2022-1190,11/18/22,DEJU,Dark Eyed Junco,Jonas Ridge,Burke,DOA,11/18/22
+2022-1191,11/18/22,EASO,Eastern screech owl,Bakersville,Mitchell,R,3/23/23
+2022-1192,11/19/22,NOCA,Northern cardinal,,NA,R,11/29/22
+2022-1193,11/19/22,TUTI,Tufted titmouse,Black Mountain,Buncombe,R,12/12/22
+2022-1194,11/20/22,BLVU,Black vulture,Hays,NA,Reh,0000-00-00
+2022-1195,11/20/22,TUVU,Turkey vulture,Crossnore,Avery,E24,11/21/22
+2022-1196,11/23/22,LAGE,Eastern Kingsnake,Lenoir,Caldwell,Reh,0000-00-00
+2022-1197,11/30/22,SCCA,Eastern gray squirrel,Jonas Ridge,Burke,DOA,11/30/22
+2022-1198,12/1/22,SOSP,Song sparrow,,NA,R,12/4/22
+2022-1199,12/1/22,HAWO,Hairy woodpecker,Newland,Avery,R,12/1/22
+2022-1200,12/1/22,EASO,Eastern screech owl,,NA,R,12/30/22
+2022-1201,12/1/22,EASO,Eastern screech owl,Marion,McDowell,R,1/31/23
+2022-1202,12/7/22,BLJA,Blue jay,Banner Elk,Avery,R,12/20/22
+2022-1203,12/8/22,EASO,Eastern screech owl,,NA,DOA,12/8/22
+2022-1204,12/8/22,EASO,Eastern screech owl,Minneapolis,Avery,E,2/1/23
+2022-1205,12/8/22,DOWO,Downy woodpecker,Banner Elk,Avery,D,12/10/22
+2022-1206,12/9/22,AMCR,American crow,Beech Mountain,Avery,D24,12/9/22
+2022-1207,12/9/22,EASO,Eastern screech owl,Nebo,McDowell,R,12/30/22
+2022-1208,12/10/22,BDOW,Barred owl,Newland,Avery,E,1/11/23
+2022-1209,12/10/22,CAGO,Canada goose,Wilkesboro,Wilkes,EOA,12/10/22
+2022-1210,12/10/22,MODO,Mourning dove,Jonas Ridge,Burke,DOA,12/10/22
+2022-1211,12/12/22,SYFL,Eastern cottontail,Vilas,Watauga,E24,12/13/22
+2022-1212,12/17/22,MODO,Mourning dove,Asheville,Buncombe,R,3/31/23
+2022-1213,12/17/22,EASO,Eastern screech owl,Weaverville,Buncombe,E,3/24/23
+2022-1214,12/17/22,EASO,Eastern screech owl,,NA,R,1/31/23
+2022-1215,12/17/22,EASO,Eastern screech owl,Burnsville,Yancey,R,1/6/23
+2022-1216,12/22/22,LESC,Lesser scaup,Newland,Avery,E,1/2/23
+2022-1217,12/26/22,MALL,Mallard,Banner Elk,Avery,R,2/5/23
+2022-1218,12/27/22,CAWR,Carolina wren,,NA,R,1/10/23
+2022-1219,12/27/22,EATO,Eastern towhee,,NA,R,2/3/23
+2022-1220,12/27/22,YBSA,Yellow-bellied sapsucker,,NA,R,2/8/23
+2022-1221,12/27/22,EASO,Eastern screech owl,Burnsville,Yancey,R,1/6/23
+2022-1222,12/29/22,AMRO,American robin,Morganton,Burke,R,1/9/23
+2022-1223,12/31/22,EABL,Eastern bluebird,Taylor,Buncombe,R,2/8/23
+2022-1224,12/31/22,EABL,Eastern bluebird,Barnardsville,Buncombe,R,1/24/23
