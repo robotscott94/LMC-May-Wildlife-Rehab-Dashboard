@@ -56,9 +56,10 @@
     </div>
     <div class="row">
       <div class="col-md-8">
-        <h2>Bar Chart</h2>
-        <div id="bar"></div>
+        <h2>Bubble Chart</h2>
+        <div id="bar" style="height: 550px; width: 550px;"></div>
       </div>
+      <script src="BarLogic.js"></script>
       <div class="col-md-4">
         <h2>Pie Chart</h2>
         <div id="pie"></div>
@@ -81,13 +82,21 @@
   <!-- D3 JS -->
   <script src="https://d3js.org/d3.v5.min.js"></script>
   <!-- Papa Parse JS -->>
-  <script src=“https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js”></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
   <!-- Highcharts Dependency -->
   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>  
   <!-- Highcharts JS -->
   <script type="text/javascript" src="https://code.highcharts.com/highcharts.js"></script>
   <!-- Plotly JS -->
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://code.highcharts.com/highcharts.js"></script>
+  <script src="https://code.highcharts.com/modules/series-label.js"></script>
+  <script src="https://code.highcharts.com/modules/exporting.js"></script>
+  <script src="https://code.highcharts.com/modules/export-data.js"></script>
+  <script src="https://code.highcharts.com/highcharts.js"></script>
+  <script src="https://code.highcharts.com/highcharts-more.js"></script>
+  <script src="https://code.highcharts.com/modules/accessibility.js"></script>
   <!-- Leaflet JS -->
   <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
     integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
@@ -96,8 +105,6 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
     integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
     crossorigin="" />
-  <!-- Papa Parse-->>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
 
   <script src="static/MapLogic.js"></script>
   <script src="static/BarLogic.js"></script>
