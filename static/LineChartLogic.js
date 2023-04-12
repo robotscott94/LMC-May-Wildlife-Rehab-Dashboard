@@ -4,11 +4,11 @@ function getMonthData(data, animalClass, year) {
         const element = data[index];
         var dt = element.admission_date.split('-');
         var month = dt[1];
-        if (animalClass === 'all' && year === 'all') {
+        if (animalClass === 'all' && year === 'All') {
             monthData[month-1] += 1;
         } else if (animalClass === 'all' && year === dt[0]) {
             monthData[month-1] += 1;
-        } else if (element.animal_class === animalClass && year === 'all') {
+        } else if (element.animal_class === animalClass && year === 'All') {
             monthData[month-1] += 1;
         } else if (element.animal_class === animalClass && year === dt[0]) {
             monthData[month-1] += 1;
@@ -51,10 +51,11 @@ Promise.all([patients, animals]).then(([patientData, animalData]) => {
     
     lineChart = Highcharts.chart('line', {
         chart: {
+            backgroundColor:'#ffe5a9',
             type: 'spline'
         },
         title: {
-            text: 'Patients Admitted'
+            text: 'Patients Admitted All'
         },
         xAxis: {
             categories: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
@@ -71,7 +72,8 @@ Promise.all([patients, animals]).then(([patientData, animalData]) => {
                 formatter: function () {
                     return this.value;
                 }
-            }
+            },
+            gridLineColor: 'black'
         },
         tooltip: {
             crosshairs: true,
@@ -91,25 +93,29 @@ Promise.all([patients, animals]).then(([patientData, animalData]) => {
             marker: {
                 symbol: 'square'
             },
-            data: getMonthData(combinedData, 'all', 'all')
+            data: getMonthData(combinedData, 'all', 'All')
         }, {
             name: 'Avian',
-            data: getMonthData(combinedData, 'avian', 'all')
+            data: getMonthData(combinedData, 'avian', 'All')
         }, {
             name: 'Reptile',
-            data: getMonthData(combinedData, 'reptile', 'all')
+            data: getMonthData(combinedData, 'reptile', 'All'),
+            color: 'green'
         }, {
             name: 'Mammal',
-            data: getMonthData(combinedData, 'mammal', 'all')
+            data: getMonthData(combinedData, 'mammal', 'All'),
+            color: 'orange'
         }, {
             name: 'Amphibian',
-            data: getMonthData(combinedData, 'amphibian', 'all')
+            data: getMonthData(combinedData, 'amphibian', 'All'),
+            color: 'grey'
         }]
     });
 });
 
 function optionChanged(year) {
-    lineChart.series[0].setData(getMonthData(combinedData, 'all', year));
+    lineChart.setTitle({text: `Patients Admitted ${year}`})
+    lineChart.series[0].setData(getMonthData(combinedData, 'All', year));
     lineChart.series[1].setData(getMonthData(combinedData, 'avian', year));
     lineChart.series[2].setData(getMonthData(combinedData, 'reptile', year));
     lineChart.series[3].setData(getMonthData(combinedData, 'mammal', year));

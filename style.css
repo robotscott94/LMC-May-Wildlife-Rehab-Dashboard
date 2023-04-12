@@ -28,8 +28,17 @@ html {
   font-size: 280%;
 }
 
+h2 {
+  font-family: 'Roboto', sans-serif;
+  text-align: 'center';
+  background-color: #005C42;
+  border-radius: 8px;
+  color: #FAB000;
+}
+
 h3 {
   font-family: 'Roboto', sans-serif;
+  text-align: 'center';
 }
 
 #donation:hover {
@@ -54,9 +63,26 @@ h3 {
 .panel {
   background-color: #6bbea7;
   border-color: #005C42;
+  width: 200px;
+  height: 64px;
+  margin: 0px;
+}
+
+.panel-heading {
+  height: 35px;
+}
+
+.panel-body {
+  height: 35px;
+  vertical-align: middle;
+  padding-top: 5px;
 }
 
 .panel-primary>.panel-heading {
   background-color: #005C42;
   border-color: #005C42;
+}
+
+td, th {
+  padding: 1px 4px;
 }
