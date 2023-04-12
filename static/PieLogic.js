@@ -6,7 +6,7 @@ const data = [
 ];
 
 // dimensions and margins
-const width = 400;
+const width = 330;
 const height = 400;
 const margin = 40;
 
@@ -16,12 +16,12 @@ const svg = d3.select('#pie')
   .attr('width', width)
   .attr('height', height);
 
-  svg.append('text')
-  .attr('x', width / 2)
-  .attr('y', margin / 2)
-  .attr('text-anchor', 'middle')
-  .style('font-size', '18px')
-  .text('Animal Mortality Rate');
+  // svg.append('text')
+  // .attr('x', width / 2)
+  // .attr('y', margin / 2)
+  // .attr('text-anchor', 'middle')
+  // .style('font-size', '18px')
+  // .text('Animal Mortality Rate');
 
 // Pie layout
   const pie = d3.pie()
