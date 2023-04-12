@@ -55,7 +55,7 @@ Promise.all([patients, animals]).then(([patientData, animalData]) => {
             type: 'spline'
         },
         title: {
-            text: 'Patients Admitted All'
+            text: 'Patients Admitted (All)'
         },
         xAxis: {
             categories: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
@@ -114,7 +114,7 @@ Promise.all([patients, animals]).then(([patientData, animalData]) => {
 });
 
 function optionChanged(year) {
-    lineChart.setTitle({text: `Patients Admitted ${year}`})
+    lineChart.setTitle({text: `Patients Admitted (${year})`})
     lineChart.series[0].setData(getMonthData(combinedData, 'All', year));
     lineChart.series[1].setData(getMonthData(combinedData, 'avian', year));
     lineChart.series[2].setData(getMonthData(combinedData, 'reptile', year));
