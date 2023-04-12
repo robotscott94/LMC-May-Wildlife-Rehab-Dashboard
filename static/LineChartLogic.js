@@ -1,137 +1,117 @@
-// A point click event that uses the Renderer to draw a label next to the point
-// On subsequent clicks, move the existing label instead of creating a new one.
-Highcharts.addEvent(Highcharts.Point, 'click', function () {
-    if (this.series.options.className.indexOf('popup-on-click') !== -1) {
-        const chart = this.series.chart;
-        const date = Highcharts.dateFormat('%A, %b %e, %Y', this.x);
-        const text = `<b>${date}</b><br/>${this.y} ${this.series.name}`;
+function getMonthData(data, animalClass, year) {
+    var monthData = [0,0,0,0,0,0,0,0,0,0,0,0]
+    for (let index = 0; index < data.length; index++) {
+        const element = data[index];
+        var dt = element.admission_date.split('-');
+        var month = dt[1];
+        if (animalClass === 'all' && year === 'all') {
+            monthData[month-1] += 1;
+        } else if (animalClass === 'all' && year === dt[0]) {
+            monthData[month-1] += 1;
+        } else if (element.animal_class === animalClass && year === 'all') {
+            monthData[month-1] += 1;
+        } else if (element.animal_class === animalClass && year === dt[0]) {
+            monthData[month-1] += 1;
+        };
+    };
+    return monthData
+};
 
-        const anchorX = this.plotX + this.series.xAxis.pos;
-        const anchorY = this.plotY + this.series.yAxis.pos;
-        const align = anchorX < chart.chartWidth - 200 ? 'left' : 'right';
-        const x = align === 'left' ? anchorX + 10 : anchorX - 10;
-        const y = anchorY - 30;
-        if (!chart.sticky) {
-            chart.sticky = chart.renderer
-                .label(text, x, y, 'callout',  anchorX, anchorY)
-                .attr({
-                    align,
-                    fill: 'rgba(0, 0, 0, 0.75)',
-                    padding: 10,
-                    zIndex: 7 // Above series, below tooltip
-                })
-                .css({
-                    color: 'white'
-                })
-                .on('click', function () {
-                    chart.sticky = chart.sticky.destroy();
-                })
-                .add();
-        } else {
-            chart.sticky
-                .attr({ align, text })
-                .animate({ anchorX, anchorY, x, y }, { duration: 250 });
+function getClass(species, data) {
+    for (let index = 0; index < data.length; index++) {
+        const element = data[index];
+        if (species === element.species) {
+            return element.animal_class
+        };
+    };
+};
+
+var combinedData;
+var lineChart;
+
+Promise.all([patients, animals]).then(([patientData, animalData]) => {
+
+    combinedData = patientData
+    yearList = []
+    for (let index = 0; index < patientData.length; index++) {
+        const element = patientData[index];
+        combinedData[index]['animal_class'] = getClass(element.species, animalData);
+        var dt = element.admission_date.split('-');
+        var year = dt[0];
+        if (!yearList.includes(year)) {
+            yearList.push(year)
         }
-    }
-});
+    };
 
-
-Highcharts.chart('container', {
-
-    chart: {
-        scrollablePlotArea: {
-            minWidth: 700
-        }
-    },
-    // Needs to be changed
-    data: {
-        csvURL: 'https://cdn.jsdelivr.net/gh/highcharts/highcharts@v7.0.0/samples/data/analytics.csv',
-        beforeParse: function (csv) {
-            return csv.replace(/\n\n/g, '\n');
-        }
-    },
-
-    title: {
-        text: 'Admissions by Year',
-        align: 'left'
-    },
-
-    subtitle: {
-        text: 'Source: May Wildlife Rehab Center Data',
-        align: 'left'
-    },
-    // Needs to be changed
-    xAxis: {
-        tickInterval: 7 * 24 * 3600 * 1000, // one week
-        tickWidth: 0,
-        gridLineWidth: 1,
-        labels: {
-            align: 'left',
-            x: 3,
-            y: -3
-        }
-    },
-
-    yAxis: [{ // left y axis
+    var selYear = d3.select('#selYear');
+    yearList.sort().map(year => {
+        let option = selYear.append('option');
+        option.text(year)
+    });
+    
+    lineChart = Highcharts.chart('line', {
+        chart: {
+            type: 'spline'
+        },
         title: {
-            text: null
+            text: 'Patients Admitted'
         },
-        labels: {
-            align: 'left',
-            x: 3,
-            y: 16,
-            format: '{value:.,0f}'
-        },
-        showFirstLabel: false
-    }, { // right y axis
-        linkedTo: 0,
-        gridLineWidth: 0,
-        opposite: true,
-        title: {
-            text: null
-        },
-        labels: {
-            align: 'right',
-            x: -3,
-            y: 16,
-            format: '{value:.,0f}'
-        },
-        showFirstLabel: false
-    }],
-
-    legend: {
-        align: 'left',
-        verticalAlign: 'top',
-        borderWidth: 0
-    },
-
-    tooltip: {
-        shared: true,
-        crosshairs: true
-    },
-
-    plotOptions: {
-        series: {
-            cursor: 'pointer',
-            className: 'popup-on-click',
-            marker: {
-                lineWidth: 1
+        xAxis: {
+            categories: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
+                'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
+            accessibility: {
+                description: 'Months of the year'
             }
-        }
-    },
-    // Needs to be changed
-    series: [{
-        name: 'All sessions',
-        lineWidth: 4,
-        marker: {
-            radius: 4
-        }
-    }, {
-        name: 'New users'
-    }]
+        },
+        yAxis: {
+            title: {
+                text: 'Number of Patients'
+            },
+            labels: {
+                formatter: function () {
+                    return this.value;
+                }
+            }
+        },
+        tooltip: {
+            crosshairs: true,
+            shared: true
+        },
+        plotOptions: {
+            spline: {
+                marker: {
+                    radius: 4,
+                    lineColor: '#666666',
+                    lineWidth: 1
+                }
+            }
+        },
+        series: [{
+            name: 'Total',
+            marker: {
+                symbol: 'square'
+            },
+            data: getMonthData(combinedData, 'all', 'all')
+        }, {
+            name: 'Avian',
+            data: getMonthData(combinedData, 'avian', 'all')
+        }, {
+            name: 'Reptile',
+            data: getMonthData(combinedData, 'reptile', 'all')
+        }, {
+            name: 'Mammal',
+            data: getMonthData(combinedData, 'mammal', 'all')
+        }, {
+            name: 'Amphibian',
+            data: getMonthData(combinedData, 'amphibian', 'all')
+        }]
+    });
 });
 
-
-//Add chart to HTML dashboard
-
-// TODO: add chart container div to HTML page
+function optionChanged(year) {
+    lineChart.series[0].setData(getMonthData(combinedData, 'all', year));
+    lineChart.series[1].setData(getMonthData(combinedData, 'avian', year));
+    lineChart.series[2].setData(getMonthData(combinedData, 'reptile', year));
+    lineChart.series[3].setData(getMonthData(combinedData, 'mammal', year));
+    lineChart.series[4].setData(getMonthData(combinedData, 'amphibian', year));
+};

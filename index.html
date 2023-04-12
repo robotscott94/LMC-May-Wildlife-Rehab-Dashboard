@@ -36,9 +36,9 @@
       </div>
     </div>
     <div class="row">
-      <div class="col-md-8 border">
+      <div id="current-patients" class="col-md-8 border">
         <h3><strong>Current Patients</strong></h3>
-        <table id="current-patients">
+        <table >
         </table>
       </div>
       <div class="col-md-3">
@@ -66,13 +66,9 @@
               <div class="col-md-7">
                 <p>Year</p>
               </div>
-              <select id="selYear" onchange="optionChanged(this.value)"></select>
-            </div>
-            <div class="row">
-              <div class="col-md-7">
-                <p>Taxonomy</p>
-              </div>
-              <select id="selTaxonomy" onchange="optionChanged(this.value)"></select>
+              <select id="selYear" onchange="optionChanged(this.value)">
+                <option>all</option>
+              </select>
             </div>
           </div>
         </div>
@@ -111,12 +107,12 @@
   <!-- Papa Parse-->>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
 
-  <script src="static/DataLogic.js"></script>
+  <script src="static/MapLogic.js"></script>
   <script src="static/BarLogic.js"></script>
   <script src="static/LineChartLogic.js"></script>
-  <script src="static/MapLogic.js"></script>
   <script src="static/PieLogic.js"></script>
+  <script src="static/TableLogic.js"></script>
   
-</body>python
+</body>
 
 </html>

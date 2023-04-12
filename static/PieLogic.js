@@ -1,17 +1,3 @@
-// html
-
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <title>Pie Chart</title>
-    <script src="https://d3js.org/d3.v5.min.js"></script>
-  </head>
-  <body>
-    <div id="pie"></div>
-    <script src="app.js"></script>
-  </body>
-</html>
-
 // array created
 const data = [
   { label: 'Alive', value: 10 },
@@ -25,7 +11,7 @@ const height = 400;
 const margin = 40;
 
 // SVG elements
-const svg = d3.select('#chart')
+const svg = d3.select('#pie')
   .append('svg')
   .attr('width', width)
   .attr('height', height);
