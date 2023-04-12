@@ -115,7 +115,7 @@ Promise.all([patients, animals]).then(([patientData, animalData]) => {
 
 function optionChanged(year) {
     lineChart.setTitle({text: `Patients Admitted (${year})`})
-    lineChart.series[0].setData(getMonthData(combinedData, 'All', year));
+    lineChart.series[0].setData(getMonthData(combinedData, 'all', year));
     lineChart.series[1].setData(getMonthData(combinedData, 'avian', year));
     lineChart.series[2].setData(getMonthData(combinedData, 'reptile', year));
     lineChart.series[3].setData(getMonthData(combinedData, 'mammal', year));
