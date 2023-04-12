@@ -1,12 +1,12 @@
 status,status_meaning,status_count
-D24,Died w/in 24 hrs,165
-E,Euthanized,112
-R,Released,585
-T,Tamed,42
-D,Died,155
-E24,Euth w/in 24 hrs,59
-EOA,Euth on Arrival,37
-DOA,Dead on Arrival,52
-Reh,Rehabbed,10
-PR,Partial Release,4
-ESC,Escaped,1
+DOA,Dead on Arrival,296
+R,Released,3193
+D,Died,1173
+D24,Died w/in 24 hrs,990
+EOA,Euth on Arrival,233
+E,Euthanized,553
+E24,Euth w/in 24 hrs,252
+T,Transferred,709
+ESC,Escaped,12
+PR,Permenant Resident,18
+Reh,In Rehab,54

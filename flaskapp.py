@@ -15,7 +15,8 @@ from flask_cors import CORS
 #################################################
 # Database Setup
 #################################################
-engine = create_engine("sqlite:///MayWildlifeCenterHist.db")
+engine = create_engine("sqlite:///finalWildlifeDB.db")
+
 
 # reflect an existing database into a new model
 Base = automap_base()
@@ -65,6 +66,10 @@ def patients():
         patient_dict['status'] = i.status
         patient_dict['final_date'] = i.final_date
         patient_dict['stay_length'] = i.stay_length
+        patient_dict['found_state'] = i.found_state
+        patient_dict['new_location'] = i.new_location
+        patient_dict['admit_year'] = i.admit_year
+        patient_dict['admit_month'] = i.admit_month
         patient_arr.append(patient_dict)
 
     return jsonify(patient_arr)
@@ -115,12 +120,10 @@ def locations():
 
     for i in results:
         places_dict = {}
-        places_dict['found_county'] = i.found_county
-        places_dict['state'] = i.state
-        places_dict['state_code'] = i.state_code
-        places_dict['county_count'] = i.county_count
-        places_dict['county_lat'] = i.county_lat
-        places_dict['county_lon'] = i.county_lon
+        places_dict['new_location'] = i.new_location
+        places_dict['map_location_count'] = i.map_location_count
+        places_dict['location_lat'] = i.location_lat
+        places_dict['location_lon'] = i.location_lon
         places_arr.append(places_dict)
 
     return jsonify(places_arr)
