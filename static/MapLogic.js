@@ -47,7 +47,7 @@ function createMap() {
   // Initializes map
   var myMap = L.map("map", {
     center: [36.1557, -81.8697],
-    zoom: 7,
+    zoom: 8,
     layers: [street]
     });
 
@@ -63,7 +63,7 @@ function createMap() {
                       [latlong[j][0], latlong[j][1]] = [latlong[j][1], latlong[j][0]];
                   }
                   L.polyline(latlong, {
-                      color: "yellow",
+                      color: "#2F4F4F",
                       // ADD BIN COLOR SELECTOR
                   }).addTo(myMap);
               }
@@ -72,7 +72,7 @@ function createMap() {
           for (let j = 0; j < latlong.length; j++) {
               [latlong[j][0], latlong[j][1]] = [latlong[j][1], latlong[j][0]];
           }
-          L.polyline(latlong, {color: "yellow"}).addTo(myMap);
+          L.polyline(latlong, {color: "#2F4F4F"}).addTo(myMap);
       }
       }
   })
@@ -82,17 +82,31 @@ function createMap() {
     console.log(data)
     for (i=0; i<data.length; i++){
     L.circle([data[i].location_lat, data[i].location_lon], {
-      fillOpacity: 0.75,
-      color: "white",
-      fillColor: "purple",
-      weight: 1,
+      fillOpacity: 0.5,
+      color: "black",
+      fillColor: "#CD853F",
+      weight: 0.1,
       radius: Math.sqrt(data[i].map_location_count)*500
       }).addTo(myMap).
-      bindPopup(`<h4>Patient Count: ${data[i].map_location_count}</h4>
-        <h4>Location: ${data[i].new_location}</h4>
+      bindPopup(`<h5>Patient Count: ${data[i].map_location_count}</h5>
+        <h5>Location: ${data[i].new_location}</h5>
       `)
       }
   })
+
+  const smallerIcon = L.icon({
+    iconUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/images/marker-icon.png',
+    shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/images/marker-shadow.png',
+    iconSize: [19, 30], // New size: half the width and height of the default icon
+    iconAnchor: [9, 30], // Adjust the anchor point accordingly
+    popupAnchor: [0, -28], // Adjust the popup anchor accordingly
+    shadowSize: [27, 16], // Adjust the shadow size accordingly
+    shadowAnchor: [9, 15] // Adjust the shadow anchor accordingly
+});
+
+  //36.158651, -81.874630 wildlife coords
+  L.marker([36.158651, -81.874630],{icon: smallerIcon}).addTo(myMap).bindPopup('May Wildlife Center');
+
 
 L.control.layers(baseMaps).addTo(myMap);
 }
