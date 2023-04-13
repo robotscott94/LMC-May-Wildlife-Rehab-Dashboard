@@ -68,19 +68,20 @@ h3 {
 .panel {
   background-color: #6bbea7;
   border-color: #005C42;
-  width: 200px;
-  height: 64px;
+  width: 100px;
+  height: 57px;
   margin: 0px;
 }
 
 .panel-heading {
-  height: 35px;
+  height: 25px;
+  padding-top: 4px;
 }
 
 .panel-body {
-  height: 35px;
+  height: 25px;
   vertical-align: middle;
-  padding-top: 10px;
+  padding-top: 5px;
 }
 
 .panel-primary>.panel-heading {
