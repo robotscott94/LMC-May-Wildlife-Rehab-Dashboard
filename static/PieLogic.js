@@ -11,24 +11,23 @@
 //   </body>
 // </html>
 // array created
+// array created
 const data = [
-  { label: 'Released', value: 585 },
+  { label: 'Rel.', value: 585 },
   { label: 'Died', value: 155 },
-  { label: 'Euthanized', value: 112 },
+  { label: 'EU.', value: 112 },
   { label: 'Deaths w/in 24hrs', value: 165 },
-  { label: 'Tamed', value: 42 },
-  { label: 'Dead on Arrival', value: 52 },
-  { label: 'Rehabbed', value: 10 },
-  { label: 'Partial Release', value: 4 },
+  { label: 'TSFR', value: 42 },
+  { label: 'DOA', value: 52 },
+  { label: 'Reh.', value: 10 },
   { label: 'Escaped', value: 1 },
 ]
-  
 // dimensions and margins
 const width = 400;
 const height = 400;
 const margin = 40;
 // SVG elements
-const svg = d3.select('#chart')
+const svg = d3.select('#pie')
   .append('svg')
   .attr('width', width)
   .attr('height', height);
@@ -42,7 +41,7 @@ const svg = d3.select('#chart')
   const pie = d3.pie()
   .value(d => d.value);
 const pieData = pie(data);
-// arc generator 
+// arc generator
 const radius = Math.min(width, height) / 2 - margin;
 const arc = d3.arc()
   .innerRadius(0)
@@ -61,6 +60,6 @@ arcs.append('text')
   .attr('transform', d => `translate(${arc.centroid(d)})`)
   .attr('text-anchor', 'middle')
   .text(d => d.data.label);
-// pie color
+  // pie color
 var color = d3.scaleOrdinal()
-.range(["#008000", "#FF0000", "#0DB1FA", "#FFFF00", "#FA8072", "#008080","#800000"," #000080","#808080"]);
+.range(["#00FF01","#8A0000","#FF6347","#800000","#FFFF00","#008080","#B22222","#7FFF00","#000000"]);
