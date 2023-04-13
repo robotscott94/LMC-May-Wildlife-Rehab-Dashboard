@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@600&display=swap');
+
 body {
   padding: 0;
   margin: 0;
@@ -21,24 +24,26 @@ html {
 #title {
   background-color:#005C42;
   color:#FAB000;
-  font-family:sans-serif;
+  font-family: 'EB Garamond', serif;
 }
 
 #title-text {
-  font-size: 280%;
+  font-size: 340%;
 }
 
 h2 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'EB Garamond', serif;
   text-align: 'center';
   background-color: #005C42;
-  border-radius: 8px;
+  border-radius: 10px;
+  padding-bottom: 5px;
   color: #FAB000;
 }
 
 h3 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'EB Garamond', serif;
   text-align: 'center';
+  color: #005C42;;
 }
 
 #donation:hover {
@@ -75,7 +80,7 @@ h3 {
 .panel-body {
   height: 35px;
   vertical-align: middle;
-  padding-top: 5px;
+  padding-top: 10px;
 }
 
 .panel-primary>.panel-heading {

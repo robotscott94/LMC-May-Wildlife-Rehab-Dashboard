@@ -35,8 +35,7 @@ const svg = d3.select('#pie')
   .attr('x', width / 2)
   .attr('y', margin / 2)
   .attr('text-anchor', 'middle')
-  .style('font-size', '18px')
-  .text('Animal Mortality Rate');
+  .style('font-size', '18px');
 // Pie layout
   const pie = d3.pie()
   .value(d => d.value);
