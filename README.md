@@ -3,8 +3,8 @@
 ## Background
 The [May Wildlife Rehabilitation Center](https://www.lmc.edu/academics/may-wildlife-center/index.htm) at Lees McRae College accepts and treats a wide variety of wildlife from the Western NC region. The center utilizes the [RaptorMed](https://www.raptormed.com/) database system to log its patient data. Five years of records from more than 7,000 animals and 200 unique species was pulled to create an interactive dashboard that lets users see the broad scope of the work done by the clinic.
 
-## Instructions to Run the Scriptgit 
-Download the github repo into a folder and navigate to the folder using Terminal or bash. Run `python flaskapp.py` in the command line to activate the Flask API. Then use [this link](https://robotscott94.github.io/LMC-May-Wildlife-Rehab-Dashboard/) to view the dashboard. The index.htlm file can also be opened using LiveServer.
+## Instructions to Run the Script
+Download the github repo into a folder and navigate to the folder using Terminal or bash. Run `python flaskapp.py` in the command line to activate the Flask API. Then use [this link](https://robotscott94.github.io/LMC-May-Wildlife-Rehab-Dashboard/) to view the dashboard. The index.htlm file can also be opened using LiveServer if the link is not functioning properly.
 
 ## Tools
 Pandas was used to clean and process the data which was loaded into a database. A Flask API connects our data to the JavaScript webpage. Leaflet and Highcharts were used in generating the visualizations.
