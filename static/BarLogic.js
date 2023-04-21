@@ -1,5 +1,5 @@
 // Define the API endpoint URL
-const apiUrl = 'http://127.0.0.1:5001/api/animals';
+const apiUrl = 'https://spiffy-bean-production.up.railway.app/api/animals';
 
 // Load the data from the API endpoint
 $.getJSON(apiUrl, function(data) {

@@ -4,22 +4,22 @@ const countyLines = d3.json("usCounties.json");
 
 const stateLines = d3.json("usStates.json");
 
-const patients = d3.json("http://127.0.0.1:5001/api/patients");
+const patients = d3.json("https://spiffy-bean-production.up.railway.app/api/patients");
 // patients.then(function(x) {
 //   console.log(x)
 // })
 
-const animals = d3.json("http://127.0.0.1:5001/api/animals");
+const animals = d3.json("https://spiffy-bean-production.up.railway.app/api/animals");
 // animals.then(function(x) {
 //   console.log(x)
 // })
 
-const statusCodes = d3.json("http://127.0.0.1:5001/api/statuscodes");
+const statusCodes = d3.json("https://spiffy-bean-production.up.railway.app/api/statuscodes");
 // statusCodes.then(function(x) {
 //   console.log(x)
 // })
 
-const places = d3.json("http://127.0.0.1:5001/api/locations");
+const places = d3.json("https://spiffy-bean-production.up.railway.app/api/locations");
 // places.then(function(x) {
 //   console.log(x)
 // })
