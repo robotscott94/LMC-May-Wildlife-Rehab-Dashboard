@@ -46,6 +46,12 @@ h3 {
   color: #005C42;;
 }
 
+p {
+  font-family: 'EB Garamond', serif;
+  color: #005C42;
+  font-size: 1.2em;
+}
+
 #donation:hover {
   text-decoration: none;
 }
@@ -63,6 +69,10 @@ h3 {
   -webkit-border-radius: 3px;
   margin: 10px;
   padding: 10px 20px;
+}
+
+.brief-description {
+  margin-top: -30px;
 }
 
 .panel {
@@ -92,4 +102,13 @@ h3 {
 td, th {
   padding: 1px 20px;
   border: 1px;
+}
+
+h3 a {
+  color: #56137C ; /* Change the color to a slightly different shade */
+}
+
+h3 a:hover {
+  text-decoration: underline;
+  color: #56137C; /* Change the color on hover */
 }
