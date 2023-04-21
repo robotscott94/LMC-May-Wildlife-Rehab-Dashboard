@@ -46,7 +46,7 @@ $.getJSON(apiUrl, function(data) {
       backgroundColor: 'transparent'
     },
     title:{
-        text: "2017 - 2023, Approx. 7500 Patients"
+        text: "2017 - 2023"
     },
   
     tooltip: {
