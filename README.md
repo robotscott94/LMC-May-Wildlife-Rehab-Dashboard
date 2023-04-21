@@ -7,7 +7,7 @@ The [May Wildlife Rehabilitation Center](https://www.lmc.edu/academics/may-wildl
 Download the github repo into a folder and navigate to the folder using Terminal or bash. Run `python flaskapp.py` in the command line to activate the Flask API. Then use [this link](https://robotscott94.github.io/LMC-May-Wildlife-Rehab-Dashboard/) to view the dashboard. The index.htlm file can also be opened using LiveServer if the link is not functioning properly.
 
 ## Tools
-Pandas was used to clean and process the data which was loaded into a database. A Flask API connects our data to the JavaScript webpage. Leaflet and Highcharts were used in generating the visualizations.
+Pandas was used to clean and process the data which was loaded into a database. A Flask API connects our data to the JavaScript webpage. The backend of this web application was moved to a separate repo that can be viewed [here](https://github.com/robotscott94/babyflask). Leaflet and Highcharts were used in generating the visualizations.
 
 ## Result
 The webpage shows a bubble chart breakdown of species grouped by animal class. A map illustrates the locations many patients were found, and a line chart shows the cyclical nature of patient volumes seen through various years. Finally, the current patients of the center are listed at the bottom of the page along with pictures of some previous patients.
